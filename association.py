@@ -7,17 +7,7 @@ import itertools
 from collections import defaultdict
 
 
-# items2keys = {
-#    'PM': 'Shift',
-#    'AM': 'Shift',
-#    'Gray': 'Primary Fur Color',
-#    'Black': 'Primary Fur Color',
-#    'Cinnamon': 'Primary Fur Color',
-#    'Adult': 'Age',
-#    'Juvenile': 'Age',
-# }
-
-
+# parses CLI arguments
 def parse_data():
     args = sys.argv
     if len(args) != 4:
@@ -29,6 +19,7 @@ def parse_data():
     return filename, min_sup, min_conf
 
 
+# first iteration of itemsets
 def get_initial_items(filename, min_sup):
     file = list(csv.DictReader(open(filename, encoding="utf-8")))
     L_1 = defaultdict(int)
@@ -76,7 +67,7 @@ def apriori_gen(L, k):
     return C_k
 
 
-# need to turn these into tuples
+# for iteration 2+ of frequent itemsets
 def extract_large_itemsets(min_sup, n2items, items2n, file_dict, L):
     k = 1
     L_next = [[key] for key in n2items.keys()]
