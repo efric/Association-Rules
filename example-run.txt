@@ -1,0 +1,1232 @@
+==Frequent itemsets (min_sup=1.0%)
+[Adult], 84.94872643069799
+[Gray], 81.80615282831624
+[Adult, Gray], 70.29440952695998
+[PM], 55.44161429043996
+[Indifferent], 48.09791597750579
+[Foraging], 47.46940125702944
+[Adult, PM], 46.84088653655309
+[Gray, PM], 45.84849487264307
+[AM], 44.55838570956004
+[Adult, Foraging], 42.11048627191531
+[Adult, Indifferent], 41.91200793913331
+[Gray, Indifferent], 40.324181276877276
+[Adult, Gray, PM], 39.199470724445916
+[Foraging, Gray], 39.13331128018525
+[AM, Adult], 38.10783989414489
+[AM, Gray], 35.95765795567317
+[Adult, Gray, Indifferent], 35.296063513066485
+[Adult, Foraging, Gray], 34.60138934832948
+[AM, Adult, Gray], 31.09493880251406
+[Foraging, PM], 27.588488256698646
+[Foraging, Indifferent], 26.13298048296394
+[Eating], 25.14058881905392
+[Adult, Foraging, PM], 24.545153820707906
+[Running], 24.148197155143897
+[Indifferent, PM], 24.082037710883228
+[AM, Indifferent], 24.01587826662256
+[Adult, Foraging, Indifferent], 23.552762156797883
+[Foraging, Gray, PM], 22.82500826993053
+[Runs from], 22.428051604366523
+[Climbing], 21.766457161759842
+[Foraging, Gray, Indifferent], 21.700297717499172
+[AM, Adult, Indifferent], 21.03870327489249
+[Adult, Eating], 20.972543830631825
+[Adult, Indifferent, PM], 20.87330466424082
+[Adult, Running], 20.674826331458814
+[Eating, Gray], 20.47634799867681
+[Gray, Indifferent, PM], 20.344029110155475
+[Adult, Foraging, Gray, PM], 20.27786966589481
+[AM, Gray, Indifferent], 19.980152166721798
+[AM, Foraging], 19.880913000330796
+[Gray, Running], 19.74859411180946
+[Adult, Foraging, Gray, Indifferent], 19.517036056897123
+[Adult, Runs from], 18.888521336420773
+[Adult, Climbing], 18.392325504465763
+[Gray, Runs from], 18.226926893814092
+[Adult, Gray, Indifferent, PM], 17.829970228250083
+[Climbing, Gray], 17.63149189546808
+[AM, Adult, Foraging], 17.56533245120741
+[AM, Adult, Gray, Indifferent], 17.46609328481641
+[Adult, Eating, Gray], 17.33377439629507
+[Adult, Gray, Running], 16.969897452861396
+[AM, Foraging, Gray], 16.30830301025471
+[Adult, Gray, Runs from], 15.415150512735693
+[Eating, PM], 15.348991068475023
+[Adult, Climbing, Gray], 15.08435329143235
+[Tail twitches], 14.356599404565001
+[AM, Adult, Foraging, Gray], 14.323519682434668
+[Foraging, Indifferent, PM], 13.827323850479656
+[Eating, Indifferent], 13.595765795567317
+[PM, Running], 13.331128018524643
+[Adult, Eating, PM], 13.033410519351637
+[Cinnamon], 12.967251075090969
+[PM, Runs from], 12.9010916308303
+[Eating, Gray, PM], 12.702613298048297
+[Adult, Foraging, Indifferent, PM], 12.504134965266292
+[AM, Foraging, Indifferent], 12.305656632484286
+[Adult, Tail twitches], 12.140258021832617
+[Eating, Foraging], 11.743301356268606
+[Foraging, Gray, Indifferent, PM], 11.577902745616937
+[Adult, PM, Running], 11.511743301356269
+[Eating, Gray, Indifferent], 11.412504134965266
+[Adult, Eating, Indifferent], 11.379424412834933
+[AM, Climbing], 11.247105524313596
+[Gray, Tail twitches], 11.180946080052928
+[Gray, PM, Running], 11.114786635792258
+[AM, Adult, Foraging, Indifferent], 11.048627191531592
+[Juvenile], 10.916308303010256
+[Adult, PM, Runs from], 10.883228580879921
+[Adult, Eating, Gray, PM], 10.850148858749586
+[AM, Running], 10.817069136619253
+[Adult, Cinnamon], 10.78398941448892
+[Gray, PM, Runs from], 10.552431359576579
+[Climbing, PM], 10.519351637446245
+[Adult, Foraging, Gray, Indifferent, PM], 10.519351637446245
+[Adult, Eating, Foraging], 10.38703274892491
+[AM, Foraging, Gray, Indifferent], 10.122394971882235
+[Eating, Foraging, Gray], 9.82467747270923
+[AM, Eating], 9.791597750578894
+[Adult, Eating, Gray, Indifferent], 9.659278862057558
+[Adult, Gray, PM, Running], 9.59311941779689
+[AM, Adult, Climbing], 9.560039695666557
+[AM, Runs from], 9.526959973536222
+[Foraging, Runs from], 9.460800529275554
+[Adult, Gray, Tail twitches], 9.460800529275554
+[Chasing], 9.229242474363215
+[AM, Adult, Running], 9.163083030102547
+[Indifferent, Running], 9.130003307972213
+[Climbing, Indifferent], 9.03076414158121
+[Adult, Gray, PM, Runs from], 8.997684419450877
+[AM, Adult, Foraging, Gray, Indifferent], 8.997684419450877
+[AM, Climbing, Gray], 8.865365530929541
+[Adult, Climbing, PM], 8.832285808799206
+[Climbing, Gray, PM], 8.766126364538538
+[Adult, Eating, Foraging, Gray], 8.666887198147535
+[AM, Gray, Running], 8.633807476017202
+[Gray, Juvenile], 8.468408865365532
+[Running, Runs from], 8.402249421104862
+[Adult, Foraging, Runs from], 8.236850810453191
+[Eating, Indifferent, PM], 8.203771088322858
+[AM, Adult, Runs from], 8.005292755540854
+[AM, Adult, Eating], 7.939133311280185
+[PM, Tail twitches], 7.8729738670195175
+[Chasing, Gray], 7.8729738670195175
+[Adult, Indifferent, Running], 7.8729738670195175
+[Foraging, Gray, Runs from], 7.8729738670195175
+[Foraging, Tail twitches], 7.839894144889183
+[AM, Eating, Gray], 7.773734700628515
+[AM, Gray, Runs from], 7.674495534237511
+[AM, Adult, Climbing, Gray], 7.674495534237511
+[Adult, Climbing, Indifferent], 7.641415812107179
+[Gray, Indifferent, Running], 7.608336089976844
+[Adult, Chasing], 7.509096923585842
+[Eating, Foraging, PM], 7.509096923585842
+[Climbing, Gray, Indifferent], 7.509096923585842
+[Adult, Climbing, Gray, PM], 7.409857757194839
+[AM, Adult, Gray, Running], 7.376778035064506
+[Adult, Running, Runs from], 7.178299702282501
+[Adult, Foraging, Tail twitches], 7.045980813761164
+[Adult, Eating, Indifferent, PM], 7.045980813761164
+[Cinnamon, PM], 7.01290109163083
+[Gray, Running, Runs from], 6.913661925239828
+[Adult, Eating, Foraging, PM], 6.913661925239828
+[Eating, Gray, Indifferent, PM], 6.913661925239828
+[Indifferent, Tail twitches], 6.84750248097916
+[Adult, Foraging, Gray, Runs from], 6.814422758848826
+[Foraging, Running], 6.748263314588157
+[Cinnamon, Foraging], 6.715183592457824
+[Eating, Foraging, Indifferent], 6.582864703936487
+[Adult, Gray, Indifferent, Running], 6.582864703936487
+[Adult, PM, Tail twitches], 6.5497849818061535
+[AM, Tail twitches], 6.4836255375454845
+[AM, Adult, Eating, Gray], 6.4836255375454845
+[Adult, Chasing, Gray], 6.45054581541515
+[AM, Adult, Gray, Runs from], 6.417466093284816
+[Eating, Foraging, Gray, PM], 6.351306649024148
+[Adult, Climbing, Gray, Indifferent], 6.351306649024148
+[Gray, PM, Tail twitches], 6.28514720476348
+[Foraging, Gray, Tail twitches], 6.152828316242143
+[Adult, Foraging, Running], 6.086668871981475
+[Adult, Cinnamon, Foraging], 6.020509427720807
+[Adult, Eating, Gray, Indifferent, PM], 6.020509427720807
+[Cinnamon, Indifferent], 5.987429705590473
+[AM, Cinnamon], 5.954349983460139
+[Foraging, PM, Runs from], 5.954349983460139
+[Approaches], 5.888190539199471
+[Juvenile, PM], 5.888190539199471
+[Adult, Gray, Running, Runs from], 5.888190539199471
+[Adult, Indifferent, Tail twitches], 5.8220310949388026
+[Adult, Eating, Foraging, Indifferent], 5.7889513728084685
+[Adult, Cinnamon, PM], 5.755871650678134
+[Adult, Eating, Foraging, Gray, PM], 5.755871650678134
+[Climbing, Runs from], 5.7227919285478
+[AM, Adult, Tail twitches], 5.590473040026464
+[Eating, Foraging, Gray, Indifferent], 5.590473040026464
+[Adult, Foraging, Gray, Tail twitches], 5.524313595765796
+[Foraging, Gray, Running], 5.458154151505128
+[Eating, Runs from], 5.425074429374793
+[AM, Eating, Indifferent], 5.39199470724446
+[Gray, Indifferent, Tail twitches], 5.39199470724446
+[Adult, Gray, PM, Tail twitches], 5.325835262983791
+[AM, Climbing, Indifferent], 5.259675818723123
+[Adult, Foraging, PM, Runs from], 5.259675818723123
+[Tail flags], 5.127356930201786
+[Adult, Cinnamon, Indifferent], 5.0611974859411175
+[AM, Juvenile], 5.028117763810784
+[AM, Adult, Cinnamon], 5.028117763810784
+[Adult, Approaches], 4.995038041680449
+[Chasing, PM], 4.895798875289447
+[PM, Running, Runs from], 4.895798875289447
+[AM, Indifferent, Running], 4.895798875289447
+[AM, Gray, Tail twitches], 4.895798875289447
+[Adult, Foraging, Gray, Running], 4.895798875289447
+[Foraging, Gray, PM, Runs from], 4.862719153159113
+[Adult, Eating, Foraging, Gray, Indifferent], 4.862719153159113
+[Adult, Climbing, Runs from], 4.829639431028779
+[Indifferent, Juvenile], 4.763479986768111
+[Adult, Gray, Indifferent, Tail twitches], 4.664240820377109
+[Gray, Juvenile, PM], 4.531921931855773
+[Adult, Eating, Runs from], 4.531921931855773
+[AM, Adult, Climbing, Indifferent], 4.531921931855773
+[AM, Eating, Gray, Indifferent], 4.498842209725439
+[Climbing, Gray, Runs from], 4.465762487595104
+[Eating, Gray, Runs from], 4.4326827654647705
+[Chasing, Indifferent], 4.3996030433344355
+[AM, Chasing], 4.333443599073767
+[Eating, Tail twitches], 4.333443599073767
+[AM, Adult, Eating, Indifferent], 4.333443599073767
+[Adult, Tail flags], 4.300363876943434
+[Foraging, PM, Tail twitches], 4.300363876943434
+[Climbing, Running], 4.267284154813099
+[Foraging, Indifferent, Tail twitches], 4.267284154813099
+[Adult, Foraging, Gray, PM, Runs from], 4.267284154813099
+[Indifferent, PM, Running], 4.234204432682766
+[AM, Eating, Foraging], 4.234204432682766
+[AM, Adult, Indifferent, Running], 4.234204432682766
+[AM, Climbing, Gray, Indifferent], 4.234204432682766
+[Climbing, Foraging], 4.201124710552431
+[Adult, PM, Running, Runs from], 4.201124710552431
+[Approaches, Gray], 4.168044988422097
+[AM, Adult, Gray, Tail twitches], 4.134965266291763
+[Foraging, PM, Running], 4.068805822031095
+[Chasing, Gray, PM], 4.068805822031095
+[Eating, Foraging, Indifferent, PM], 4.068805822031095
+[Gray, Tail flags], 4.035726099900761
+[Cinnamon, Foraging, PM], 4.035726099900761
+[Adult, Chasing, PM], 4.002646377770427
+[AM, Gray, Indifferent, Running], 4.002646377770427
+[Runs from, Tail twitches], 3.9695666556400924
+[Gray, PM, Running, Runs from], 3.9695666556400924
+[AM, Gray, Juvenile], 3.9364869335097588
+[Adult, Foraging, PM, Tail twitches], 3.9364869335097588
+[Running, Tail twitches], 3.9034072113794243
+[Foraging, Juvenile], 3.9034072113794243
+[Adult, Chasing, Indifferent], 3.9034072113794243
+[Adult, Foraging, PM, Running], 3.87032748924909
+[Chasing, Gray, Indifferent], 3.804168044988422
+[AM, Chasing, Gray], 3.804168044988422
+[Adult, Climbing, Gray, Runs from], 3.804168044988422
+[Adult, Eating, Gray, Runs from], 3.804168044988422
+[Eating, Running], 3.7710883228580876
+[Climbing, Indifferent, PM], 3.7710883228580876
+[Gray, Indifferent, Juvenile], 3.7710883228580876
+[Adult, Eating, Foraging, Indifferent, PM], 3.7710883228580876
+[Adult, Foraging, Indifferent, Tail twitches], 3.738008600727754
+[Cinnamon, Eating], 3.671849156467086
+[Adult, Climbing, Running], 3.671849156467086
+[Adult, Climbing, Foraging], 3.671849156467086
+[Adult, Eating, Tail twitches], 3.6387694343367514
+[Adult, Indifferent, PM, Running], 3.6387694343367514
+[Adult, Cinnamon, Foraging, PM], 3.6387694343367514
+[AM, Adult, Climbing, Gray, Indifferent], 3.6387694343367514
+[AM, Adult, Eating, Gray, Indifferent], 3.6387694343367514
+[Indifferent, PM, Tail twitches], 3.6056897122064178
+[Cinnamon, Foraging, Indifferent], 3.6056897122064178
+[Gray, Indifferent, PM, Running], 3.6056897122064178
+[AM, Foraging, Tail twitches], 3.539530267945749
+[AM, Running, Runs from], 3.506450545815415
+[AM, Adult, Chasing], 3.506450545815415
+[AM, Foraging, Runs from], 3.506450545815415
+[Adult, Approaches, Gray], 3.506450545815415
+[AM, Adult, Gray, Indifferent, Running], 3.506450545815415
+[Climbing, Eating], 3.473370823685081
+[Eating, Gray, Tail twitches], 3.473370823685081
+[Adult, Gray, Tail flags], 3.473370823685081
+[Foraging, Gray, PM, Tail twitches], 3.473370823685081
+[AM, Eating, Foraging, Gray], 3.473370823685081
+[AM, Adult, Eating, Foraging], 3.473370823685081
+[Approaches, Foraging], 3.4402911015547466
+[Adult, Gray, PM, Running, Runs from], 3.4402911015547466
+[Eating, Foraging, Gray, Indifferent, PM], 3.4402911015547466
+[Black], 3.407211379424413
+[Cinnamon, Running], 3.407211379424413
+[Climbing, Foraging, Gray], 3.407211379424413
+[Kuks], 3.3741316572940785
+[Adult, Chasing, Gray, Indifferent], 3.3741316572940785
+[Climbing, Gray, Running], 3.3079722130334104
+[Adult, Runs from, Tail twitches], 3.3079722130334104
+[Adult, Chasing, Gray, PM], 3.3079722130334104
+[Foraging, Gray, Juvenile], 3.2748924909030768
+[Climbing, Gray, Indifferent, PM], 3.2748924909030768
+[Adult, Cinnamon, Foraging, Indifferent], 3.2748924909030768
+[Eating, PM, Runs from], 3.2418127687727423
+[AM, Indifferent, Tail twitches], 3.2418127687727423
+[Foraging, Gray, Indifferent, Tail twitches], 3.2418127687727423
+[Adult, Foraging, Gray, PM, Tail twitches], 3.2418127687727423
+[Eating, Juvenile], 3.208733046642408
+[Foraging, Gray, PM, Running], 3.208733046642408
+[Approaches, PM], 3.175653324512074
+[Climbing, PM, Runs from], 3.14257360238174
+[AM, Adult, Chasing, Gray], 3.14257360238174
+[Adult, Eating, Foraging, Gray, Indifferent, PM], 3.14257360238174
+[Adult, Running, Tail twitches], 3.1094938802514056
+[Gray, Runs from, Tail twitches], 3.1094938802514056
+[Adult, Climbing, Indifferent, PM], 3.1094938802514056
+[AM, Adult, Foraging, Tail twitches], 3.1094938802514056
+[Eating, Gray, Running], 3.0764141581210716
+[Adult, Gray, Indifferent, PM, Running], 3.0764141581210716
+[Adult, Black], 3.0433344359907375
+[Adult, Eating, Running], 3.0433344359907375
+[AM, Cinnamon, Indifferent], 3.0433344359907375
+[Gray, Running, Tail twitches], 3.0102547138604034
+[Adult, Approaches, Foraging], 3.0102547138604034
+[AM, Foraging, Gray, Runs from], 3.0102547138604034
+[Adult, Foraging, Gray, PM, Running], 3.0102547138604034
+[AM, Adult, Running, Runs from], 2.9771749917300694
+[Adult, Eating, Gray, Tail twitches], 2.9771749917300694
+[AM, Adult, Foraging, Runs from], 2.9771749917300694
+[Cinnamon, Indifferent, PM], 2.9440952695997353
+[Adult, Indifferent, PM, Tail twitches], 2.9440952695997353
+[Adult, Climbing, Gray, Running], 2.9440952695997353
+[AM, Gray, Running, Runs from], 2.9440952695997353
+[Adult, Climbing, Foraging, Gray], 2.9440952695997353
+[Adult, Cinnamon, Eating], 2.9110155474694013
+[AM, Adult, Eating, Foraging, Gray], 2.9110155474694013
+[Cinnamon, Runs from], 2.877935825339067
+[Gray, Indifferent, PM, Tail twitches], 2.877935825339067
+[AM, Adult, Indifferent, Tail twitches], 2.877935825339067
+[Climbing, Juvenile], 2.844856103208733
+[Adult, Cinnamon, Running], 2.844856103208733
+[Adult, Eating, PM, Runs from], 2.844856103208733
+[Adult, Foraging, Gray, Indifferent, Tail twitches], 2.844856103208733
+[Climbing, Tail twitches], 2.811776381078399
+[PM, Tail flags], 2.7786966589480646
+[Foraging, Indifferent, Running], 2.7786966589480646
+[Indifferent, Tail flags], 2.7456169368177306
+[Adult, Climbing, Eating], 2.7456169368177306
+[Juvenile, Running], 2.7125372146873965
+[Cinnamon, Climbing], 2.7125372146873965
+[AM, Approaches], 2.7125372146873965
+[Climbing, Eating, Gray], 2.7125372146873965
+[Adult, Climbing, Gray, Indifferent, PM], 2.7125372146873965
+[Juvenile, Runs from], 2.6794574925570624
+[AM, Foraging, Running], 2.6794574925570624
+[AM, Cinnamon, Foraging], 2.6794574925570624
+[AM, Foraging, Gray, Tail twitches], 2.6794574925570624
+[Climbing, Gray, PM, Runs from], 2.6463777704267284
+[Eating, Gray, PM, Runs from], 2.6463777704267284
+[AM, Adult, Cinnamon, Indifferent], 2.6463777704267284
+[Gray, Kuks], 2.6132980482963943
+[Adult, Approaches, PM], 2.6132980482963943
+[Eating, PM, Tail twitches], 2.5802183261660603
+[AM, Climbing, Runs from], 2.5802183261660603
+[Approaches, Foraging, Gray], 2.5802183261660603
+[Adult, Climbing, PM, Runs from], 2.5802183261660603
+[Chasing, Running], 2.5471386040357262
+[Adult, Gray, Runs from, Tail twitches], 2.5471386040357262
+[AM, Adult, Foraging, Gray, Runs from], 2.5471386040357262
+[Adult, Kuks], 2.514058881905392
+[AM, Indifferent, Juvenile], 2.514058881905392
+[Adult, Eating, Gray, Running], 2.514058881905392
+[Adult, Foraging, Indifferent, Running], 2.514058881905392
+[AM, Eating, Foraging, Indifferent], 2.514058881905392
+[AM, Gray, Indifferent, Tail twitches], 2.514058881905392
+[Cinnamon, Tail twitches], 2.480979159775058
+[Eating, Foraging, Runs from], 2.480979159775058
+[Adult, Gray, Indifferent, PM, Tail twitches], 2.4478994376447236
+[AM, Adult, Gray, Running, Runs from], 2.4478994376447236
+[Adult, Cinnamon, Indifferent, PM], 2.4148197155143896
+[Climbing, PM, Running], 2.3817399933840555
+[Approaches, Gray, PM], 2.3817399933840555
+[AM, Chasing, Indifferent], 2.3817399933840555
+[AM, Adult, Approaches], 2.3817399933840555
+[AM, Adult, Cinnamon, Foraging], 2.3817399933840555
+[AM, Tail flags], 2.3486602712537215
+[Eating, Foraging, Tail twitches], 2.3486602712537215
+[Eating, Indifferent, Tail twitches], 2.3486602712537215
+[Adult, Cinnamon, Runs from], 2.3486602712537215
+[Climbing, Foraging, PM], 2.3155805491233874
+[PM, Runs from, Tail twitches], 2.3155805491233874
+[Adult, Indifferent, Tail flags], 2.3155805491233874
+[Adult, Gray, Running, Tail twitches], 2.3155805491233874
+[Adult, Eating, Gray, PM, Runs from], 2.3155805491233874
+[Gray, PM, Tail flags], 2.2825008269930533
+[Eating, Gray, Juvenile], 2.2825008269930533
+[AM, Adult, Foraging, Gray, Tail twitches], 2.2825008269930533
+[Adult, PM, Tail flags], 2.2494211048627193
+[Indifferent, Juvenile, PM], 2.2494211048627193
+[Gray, Indifferent, Tail flags], 2.2494211048627193
+[Foraging, Gray, Indifferent, Running], 2.2494211048627193
+[AM, Foraging, Gray, Running], 2.2494211048627193
+[AM, Adult, Climbing, Runs from], 2.2494211048627193
+[Adult, Eating, Foraging, Runs from], 2.2494211048627193
+[Approaches, Eating], 2.2163413827323852
+[Adult, Climbing, Tail twitches], 2.2163413827323852
+[Adult, Eating, PM, Tail twitches], 2.2163413827323852
+[AM, Adult, Foraging, Running], 2.2163413827323852
+[Adult, Climbing, Gray, PM, Runs from], 2.2163413827323852
+[AM, Adult, Gray, Indifferent, Tail twitches], 2.2163413827323852
+[Foraging, Tail flags], 2.183261660602051
+[AM, Eating, Runs from], 2.183261660602051
+[Foraging, Indifferent, PM, Tail twitches], 2.183261660602051
+[Adult, Approaches, Foraging, Gray], 2.183261660602051
+[Climbing, Gray, Tail twitches], 2.150181938471717
+[Climbing, Gray, Juvenile], 2.150181938471717
+[Adult, Cinnamon, Climbing], 2.150181938471717
+[Adult, Gray, Kuks], 2.150181938471717
+[Adult, Climbing, Eating, Gray], 2.150181938471717
+[Adult, Eating, Foraging, Tail twitches], 2.150181938471717
+[AM, Eating, Foraging, Gray, Indifferent], 2.150181938471717
+[Chasing, Gray, Running], 2.117102216341383
+[Gray, Juvenile, Running], 2.117102216341383
+[Adult, Climbing, PM, Running], 2.117102216341383
+[AM, Chasing, Gray, Indifferent], 2.117102216341383
+[Eating, PM, Running], 2.0840224942110486
+[Adult, Cinnamon, Tail twitches], 2.0840224942110486
+[Eating, Foraging, Gray, Runs from], 2.0840224942110486
+[AM, Foraging, Indifferent, Tail twitches], 2.0840224942110486
+[AM, Gray, Indifferent, Juvenile], 2.0840224942110486
+[PM, Running, Tail twitches], 2.0509427720807145
+[Adult, Chasing, Running], 2.0509427720807145
+[Foraging, Indifferent, Juvenile], 2.0509427720807145
+[AM, Adult, Tail flags], 2.0509427720807145
+[Gray, Juvenile, Runs from], 2.0509427720807145
+[Adult, Climbing, Foraging, PM], 2.0509427720807145
+[Eating, Gray, PM, Tail twitches], 2.0509427720807145
+[Chasing, Indifferent, PM], 2.0178630499503805
+[Eating, Foraging, Gray, Tail twitches], 2.0178630499503805
+[Adult, Foraging, Gray, Indifferent, Running], 2.0178630499503805
+[AM, Adult, Eating, Foraging, Indifferent], 2.0178630499503805
+[Cinnamon, Eating, PM], 1.9847833278200462
+[Foraging, Juvenile, PM], 1.9847833278200462
+[Climbing, Foraging, Indifferent], 1.9847833278200462
+[AM, Adult, Chasing, Indifferent], 1.9847833278200462
+[Eating, Gray, Indifferent, Tail twitches], 1.9847833278200462
+[Eating, Foraging, Running], 1.9517036056897121
+[Foraging, Running, Runs from], 1.9517036056897121
+[Climbing, Gray, PM, Running], 1.9517036056897121
+[Climbing, Foraging, Gray, PM], 1.9517036056897121
+[Cinnamon, Foraging, Indifferent, PM], 1.9517036056897121
+[Adult, Eating, Indifferent, Tail twitches], 1.9517036056897121
+[Adult, Foraging, Indifferent, PM, Tail twitches], 1.9517036056897121
+[Cinnamon, Juvenile], 1.9186238835593779
+[AM, Foraging, Juvenile], 1.9186238835593779
+[Adult, Chasing, Indifferent, PM], 1.9186238835593779
+[Adult, Gray, PM, Tail flags], 1.9186238835593779
+[Adult, Approaches, Gray, PM], 1.9186238835593779
+[Adult, Gray, Indifferent, Tail flags], 1.9186238835593779
+[Adult, Eating, Foraging, Gray, Runs from], 1.9186238835593779
+[Juvenile, Tail twitches], 1.8855441614290438
+[AM, Climbing, Running], 1.8855441614290438
+[AM, Climbing, Foraging], 1.8855441614290438
+[AM, Adult, Foraging, Gray, Running], 1.8855441614290438
+[Climbing, Eating, PM], 1.8524644392987097
+[Eating, Indifferent, Running], 1.8524644392987097
+[AM, Running, Tail twitches], 1.8524644392987097
+[Adult, Approaches, Eating], 1.8524644392987097
+[Adult, Foraging, Tail flags], 1.8524644392987097
+[Adult, Eating, PM, Running], 1.8524644392987097
+[Adult, PM, Runs from, Tail twitches], 1.8524644392987097
+[Adult, Eating, Gray, PM, Tail twitches], 1.8524644392987097
+[Gray, PM, Runs from, Tail twitches], 1.8193847171683757
+[Adult, Foraging, Running, Runs from], 1.8193847171683757
+[AM, Climbing, Gray, Runs from], 1.8193847171683757
+[Adult, Eating, Foraging, Gray, Tail twitches], 1.8193847171683757
+[Chasing, Foraging], 1.7863049950380416
+[AM, Kuks], 1.7863049950380416
+[Climbing, Running, Runs from], 1.7863049950380416
+[Cinnamon, Eating, Indifferent], 1.7863049950380416
+[AM, Approaches, Gray], 1.7863049950380416
+[Eating, Gray, PM, Running], 1.7863049950380416
+[AM, Eating, Gray, Runs from], 1.7863049950380416
+[AM, Adult, Chasing, Gray, Indifferent], 1.7863049950380416
+[AM, Adult, Foraging, Indifferent, Tail twitches], 1.7863049950380416
+[Approaches, Foraging, PM], 1.7532252729077076
+[Running, Runs from, Tail twitches], 1.7532252729077076
+[AM, Eating, Tail twitches], 1.7532252729077076
+[Eating, Indifferent, Juvenile], 1.7532252729077076
+[AM, Gray, Tail flags], 1.7532252729077076
+[Eating, Foraging, PM, Runs from], 1.7532252729077076
+[Adult, Chasing, Gray, Running], 1.7532252729077076
+[Adult, Climbing, Gray, PM, Running], 1.7532252729077076
+[Adult, Cinnamon, Foraging, Indifferent, PM], 1.7532252729077076
+[Black, PM], 1.7201455507773733
+[Cinnamon, PM, Running], 1.7201455507773733
+[Climbing, Eating, Indifferent], 1.7201455507773733
+[Foraging, Gray, Tail flags], 1.7201455507773733
+[Foraging, Runs from, Tail twitches], 1.7201455507773733
+[Foraging, Gray, Indifferent, Juvenile], 1.7201455507773733
+[Foraging, Gray, Indifferent, PM, Tail twitches], 1.7201455507773733
+[Adult, Eating, Gray, Indifferent, Tail twitches], 1.7201455507773733
+[AM, Adult, Eating, Foraging, Gray, Indifferent], 1.7201455507773733
+[AM, Black], 1.6870658286470392
+[AM, Eating, Running], 1.6870658286470392
+[AM, Cinnamon, Running], 1.6870658286470392
+[Adult, Chasing, Foraging], 1.6870658286470392
+[Cinnamon, Eating, Foraging], 1.6870658286470392
+[AM, Cinnamon, Eating], 1.6870658286470392
+[AM, Approaches, Foraging], 1.6870658286470392
+[Chasing, Gray, Indifferent, PM], 1.6870658286470392
+[Adult, Cinnamon, Eating, PM], 1.6870658286470392
+[Gray, Indifferent, Juvenile, PM], 1.6870658286470392
+[Eating, Foraging, Gray, Running], 1.6870658286470392
+[Adult, Climbing, Gray, Tail twitches], 1.6870658286470392
+[AM, Adult, Eating, Runs from], 1.6870658286470392
+[Adult, Climbing, Foraging, Gray, PM], 1.6870658286470392
+[Quaas], 1.6539861065167052
+[Runs from, Tail flags], 1.6539861065167052
+[AM, Runs from, Tail twitches], 1.6539861065167052
+[Gray, PM, Running, Tail twitches], 1.6539861065167052
+[Adult, Climbing, Foraging, Indifferent], 1.6539861065167052
+[AM, Cinnamon, Foraging, Indifferent], 1.6539861065167052
+[AM, Foraging, Gray, Juvenile], 1.6539861065167052
+[Eating, Juvenile, PM], 1.6209063843863711
+[AM, Climbing, Eating], 1.6209063843863711
+[Adult, PM, Running, Tail twitches], 1.6209063843863711
+[Foraging, Gray, Juvenile, PM], 1.6209063843863711
+[Adult, Eating, Foraging, Running], 1.6209063843863711
+[Eating, Gray, Indifferent, Running], 1.6209063843863711
+[AM, Adult, Climbing, Foraging], 1.6209063843863711
+[Adult, Foraging, Runs from, Tail twitches], 1.6209063843863711
+[Adult, Eating, Foraging, PM, Runs from], 1.6209063843863711
+[Kuks, PM], 1.587826662256037
+[Foraging, Running, Tail twitches], 1.587826662256037
+[AM, Cinnamon, Climbing], 1.587826662256037
+[AM, Eating, Juvenile], 1.587826662256037
+[Climbing, Eating, Gray, PM], 1.587826662256037
+[Adult, Climbing, Running, Runs from], 1.587826662256037
+[Climbing, Foraging, Gray, Indifferent], 1.587826662256037
+[AM, Adult, Approaches, Gray], 1.587826662256037
+[Adult, Eating, Gray, PM, Running], 1.587826662256037
+[Adult, Chasing, Gray, Indifferent, PM], 1.587826662256037
+[AM, Adult, Climbing, Gray, Runs from], 1.587826662256037
+[Adult, Foraging, Gray, Indifferent, PM, Tail twitches], 1.587826662256037
+[Chasing, Climbing], 1.5547469401257028
+[Chasing, Tail twitches], 1.5547469401257028
+[Chasing, PM, Running], 1.5547469401257028
+[Cinnamon, PM, Runs from], 1.5547469401257028
+[Adult, Climbing, Eating, PM], 1.5547469401257028
+[AM, Adult, Climbing, Running], 1.5547469401257028
+[Foraging, Gray, Running, Runs from], 1.5547469401257028
+[AM, Adult, Gray, Tail flags], 1.5547469401257028
+[Adult, Black, PM], 1.5216672179953687
+[AM, Adult, Black], 1.5216672179953687
+[Adult, Approaches, Foraging, PM], 1.5216672179953687
+[Adult, Cinnamon, Eating, Foraging], 1.5216672179953687
+[AM, Foraging, Gray, Indifferent, Tail twitches], 1.5216672179953687
+[AM, Adult, Cinnamon, Foraging, Indifferent], 1.5216672179953687
+[Juvenile, PM, Running], 1.4885874958650347
+[Juvenile, PM, Runs from], 1.4885874958650347
+[AM, Climbing, Juvenile], 1.4885874958650347
+[Foraging, Indifferent, Tail flags], 1.4885874958650347
+[Eating, Foraging, PM, Tail twitches], 1.4885874958650347
+[Adult, Eating, Indifferent, Running], 1.4885874958650347
+[AM, Adult, Running, Tail twitches], 1.4885874958650347
+[Climbing, Eating, Gray, Indifferent], 1.4885874958650347
+[Adult, Foraging, Gray, Tail flags], 1.4885874958650347
+[AM, Adult, Approaches, Foraging], 1.4885874958650347
+[Adult, Eating, Foraging, PM, Tail twitches], 1.4885874958650347
+[Eating, Foraging, Gray, PM, Runs from], 1.4885874958650347
+[AM, Adult, Eating, Gray, Runs from], 1.4885874958650347
+[Approaches, Cinnamon], 1.4555077737347006
+[Black, Indifferent], 1.4555077737347006
+[Indifferent, PM, Tail flags], 1.4555077737347006
+[Chasing, Climbing, Gray], 1.4555077737347006
+[AM, Climbing, Tail twitches], 1.4555077737347006
+[Approaches, Eating, Gray], 1.4555077737347006
+[Gray, Juvenile, Tail twitches], 1.4555077737347006
+[Adult, Cinnamon, PM, Running], 1.4555077737347006
+[AM, Climbing, Foraging, Gray], 1.4555077737347006
+[AM, Adult, Runs from, Tail twitches], 1.4555077737347006
+[Adult, Gray, PM, Runs from, Tail twitches], 1.4555077737347006
+[Adult, Foraging, Gray, Running, Runs from], 1.4555077737347006
+[Running, Tail flags], 1.4224280516043666
+[Black, Foraging], 1.4224280516043666
+[Climbing, Indifferent, Running], 1.4224280516043666
+[Adult, Chasing, Climbing], 1.4224280516043666
+[Cinnamon, Foraging, Tail twitches], 1.4224280516043666
+[Foraging, Indifferent, PM, Running], 1.4224280516043666
+[Eating, Indifferent, PM, Tail twitches], 1.4224280516043666
+[Climbing, Gray, Running, Runs from], 1.4224280516043666
+[Adult, Foraging, Running, Tail twitches], 1.4224280516043666
+[Adult, Running, Runs from, Tail twitches], 1.4224280516043666
+[Adult, Climbing, Eating, Indifferent], 1.4224280516043666
+[Eating, Foraging, Indifferent, Tail twitches], 1.4224280516043666
+[AM, Eating, Gray, Tail twitches], 1.4224280516043666
+[AM, Adult, Eating, Tail twitches], 1.4224280516043666
+[Adult, Cinnamon, Eating, Indifferent], 1.4224280516043666
+[Adult, Eating, Foraging, Gray, Running], 1.4224280516043666
+[Eating, Running, Runs from], 1.3893483294740323
+[Chasing, Foraging, Gray], 1.3893483294740323
+[Adult, Chasing, Tail twitches], 1.3893483294740323
+[Climbing, Eating, Foraging], 1.3893483294740323
+[AM, Adult, Cinnamon, Running], 1.3893483294740323
+[Adult, Foraging, Indifferent, PM, Running], 1.3893483294740323
+[Climbing, Kuks], 1.3562686073436983
+[Climbing, PM, Tail twitches], 1.3562686073436983
+[Climbing, Juvenile, PM], 1.3562686073436983
+[Approaches, Eating, PM], 1.3562686073436983
+[Indifferent, Running, Tail twitches], 1.3562686073436983
+[Climbing, Foraging, Runs from], 1.3562686073436983
+[AM, Adult, Kuks], 1.3562686073436983
+[Gray, Runs from, Tail flags], 1.3562686073436983
+[AM, Climbing, Gray, Running], 1.3562686073436983
+[AM, Foraging, Indifferent, Running], 1.3562686073436983
+[Gray, Running, Runs from, Tail twitches], 1.3562686073436983
+[AM, Gray, Running, Tail twitches], 1.3562686073436983
+[Adult, Chasing, Climbing, Gray], 1.3562686073436983
+[Eating, Gray, Indifferent, Juvenile], 1.3562686073436983
+[Foraging, Gray, Runs from, Tail twitches], 1.3562686073436983
+[Adult, Eating, Foraging, Gray, PM, Runs from], 1.3562686073436983
+[Chasing, Runs from], 1.3231888852133642
+[Eating, Tail flags], 1.3231888852133642
+[Adult, Quaas], 1.3231888852133642
+[Adult, Black, Foraging], 1.3231888852133642
+[AM, Gray, Kuks], 1.3231888852133642
+[AM, Cinnamon, Tail twitches], 1.3231888852133642
+[Adult, Approaches, Cinnamon], 1.3231888852133642
+[Adult, Black, Indifferent], 1.3231888852133642
+[AM, Cinnamon, Runs from], 1.3231888852133642
+[Chasing, Gray, PM, Running], 1.3231888852133642
+[Adult, Chasing, Foraging, Gray], 1.3231888852133642
+[AM, Approaches, Foraging, Gray], 1.3231888852133642
+[Adult, Climbing, Foraging, Gray, Indifferent], 1.3231888852133642
+[Gray, Kuks, PM], 1.2901091630830301
+[Chasing, Gray, Tail twitches], 1.2901091630830301
+[AM, Indifferent, Tail flags], 1.2901091630830301
+[Adult, Runs from, Tail flags], 1.2901091630830301
+[Adult, Chasing, PM, Running], 1.2901091630830301
+[AM, Eating, Gray, Running], 1.2901091630830301
+[AM, Adult, Cinnamon, Climbing], 1.2901091630830301
+[Adult, Foraging, Indifferent, Tail flags], 1.2901091630830301
+[AM, Gray, Runs from, Tail twitches], 1.2901091630830301
+[Adult, Climbing, Eating, Gray, PM], 1.2901091630830301
+[Adult, Eating, Gray, Indifferent, Running], 1.2901091630830301
+[Approaches, Running], 1.257029440952696
+[Chasing, Juvenile], 1.257029440952696
+[Chasing, Gray, Runs from], 1.257029440952696
+[Climbing, Eating, Runs from], 1.257029440952696
+[Climbing, Indifferent, Tail twitches], 1.257029440952696
+[Foraging, PM, Running, Runs from], 1.257029440952696
+[Gray, Juvenile, PM, Running], 1.257029440952696
+[Approaches, Foraging, Gray, PM], 1.257029440952696
+[Gray, Indifferent, PM, Tail flags], 1.257029440952696
+[Adult, Climbing, Foraging, Runs from], 1.257029440952696
+[Adult, Cinnamon, Foraging, Tail twitches], 1.257029440952696
+[Adult, Gray, PM, Running, Tail twitches], 1.257029440952696
+[Eating, Foraging, Gray, PM, Tail twitches], 1.257029440952696
+[Adult, Eating, Indifferent, PM, Tail twitches], 1.257029440952696
+[Adult, Climbing, Gray, Running, Runs from], 1.257029440952696
+[AM, Adult, Climbing, Foraging, Gray], 1.257029440952696
+[Adult, Foraging, Gray, Runs from, Tail twitches], 1.257029440952696
+[Adult, Eating, Foraging, Gray, PM, Tail twitches], 1.257029440952696
+[AM, Adult, Foraging, Gray, Indifferent, Tail twitches], 1.257029440952696
+[AM, Juvenile, Running], 1.2239497188223618
+[Eating, Foraging, PM, Running], 1.2239497188223618
+[Eating, Gray, Juvenile, PM], 1.2239497188223618
+[Adult, Cinnamon, PM, Runs from], 1.2239497188223618
+[AM, Climbing, Gray, Tail twitches], 1.2239497188223618
+[Adult, Approaches, Eating, Gray], 1.2239497188223618
+[AM, Adult, Cinnamon, Eating], 1.2239497188223618
+[Adult, Climbing, Eating, Gray, Indifferent], 1.2239497188223618
+[Eating, Foraging, Gray, Indifferent, Tail twitches], 1.2239497188223618
+[Adult, Eating, Foraging, Indifferent, Tail twitches], 1.2239497188223618
+[Chasing, Foraging, PM], 1.1908699966920278
+[Cinnamon, Indifferent, Running], 1.1908699966920278
+[Climbing, Indifferent, Juvenile], 1.1908699966920278
+[AM, Juvenile, Runs from], 1.1908699966920278
+[Adult, Chasing, Foraging, PM], 1.1908699966920278
+[Adult, Approaches, Eating, PM], 1.1908699966920278
+[Adult, Indifferent, PM, Tail flags], 1.1908699966920278
+[Adult, Climbing, Indifferent, Running], 1.1908699966920278
+[Eating, Gray, Running, Runs from], 1.1908699966920278
+[AM, Adult, Eating, Running], 1.1908699966920278
+[Adult, Climbing, Eating, Foraging], 1.1908699966920278
+[AM, Adult, Climbing, Eating], 1.1908699966920278
+[Foraging, Gray, Indifferent, Tail flags], 1.1908699966920278
+[AM, Foraging, Indifferent, Juvenile], 1.1908699966920278
+[AM, Adult, Cinnamon, Tail twitches], 1.1908699966920278
+[Adult, Foraging, PM, Running, Runs from], 1.1908699966920278
+[Eating, Gray, Indifferent, PM, Tail twitches], 1.1908699966920278
+[AM, Adult, Climbing, Gray, Running], 1.1908699966920278
+[Gray, Quaas], 1.1577902745616937
+[Approaches, Tail twitches], 1.1577902745616937
+[Foraging, PM, Tail flags], 1.1577902745616937
+[Adult, Kuks, PM], 1.1577902745616937
+[Cinnamon, PM, Tail twitches], 1.1577902745616937
+[Juvenile, PM, Tail twitches], 1.1577902745616937
+[Adult, Running, Tail flags], 1.1577902745616937
+[Approaches, Eating, Foraging], 1.1577902745616937
+[Cinnamon, Foraging, Runs from], 1.1577902745616937
+[Foraging, Gray, Running, Tail twitches], 1.1577902745616937
+[AM, Adult, Climbing, Tail twitches], 1.1577902745616937
+[Adult, Eating, Foraging, PM, Running], 1.1577902745616937
+[AM, Adult, Approaches, Foraging, Gray], 1.1577902745616937
+[Cinnamon, Climbing, PM], 1.1247105524313596
+[Gray, Running, Tail flags], 1.1247105524313596
+[Climbing, Gray, Kuks], 1.1247105524313596
+[Cinnamon, Climbing, Indifferent], 1.1247105524313596
+[Climbing, Gray, Juvenile, PM], 1.1247105524313596
+[Adult, Chasing, Gray, Tail twitches], 1.1247105524313596
+[Climbing, Eating, Foraging, Gray], 1.1247105524313596
+[AM, Climbing, Eating, Gray], 1.1247105524313596
+[AM, Adult, Gray, Kuks], 1.1247105524313596
+[AM, Adult, Indifferent, Tail flags], 1.1247105524313596
+[Adult, Gray, Runs from, Tail flags], 1.1247105524313596
+[AM, Adult, Cinnamon, Runs from], 1.1247105524313596
+[Foraging, Gray, Indifferent, PM, Running], 1.1247105524313596
+[AM, Foraging, Gray, Indifferent, Running], 1.1247105524313596
+[AM, Adult, Foraging, Indifferent, Running], 1.1247105524313596
+[AM, Adult, Eating, Gray, Tail twitches], 1.1247105524313596
+[Adult, Eating, Gray, Indifferent, PM, Tail twitches], 1.1247105524313596
+[Indifferent, Kuks], 1.0916308303010256
+[Cinnamon, Juvenile, PM], 1.0916308303010256
+[Chasing, Indifferent, Running], 1.0916308303010256
+[Cinnamon, Foraging, Running], 1.0916308303010256
+[Cinnamon, Running, Runs from], 1.0916308303010256
+[Adult, Climbing, Kuks], 1.0916308303010256
+[Adult, Eating, Tail flags], 1.0916308303010256
+[Cinnamon, Indifferent, Tail twitches], 1.0916308303010256
+[Foraging, PM, Runs from, Tail twitches], 1.0916308303010256
+[Gray, Juvenile, PM, Runs from], 1.0916308303010256
+[Climbing, Gray, Indifferent, Running], 1.0916308303010256
+[Eating, Foraging, Indifferent, Running], 1.0916308303010256
+[Climbing, Foraging, Gray, Runs from], 1.0916308303010256
+[Adult, Chasing, Gray, PM, Running], 1.0916308303010256
+[Eating, Foraging, Gray, PM, Running], 1.0916308303010256
+[AM, Adult, Gray, Runs from, Tail twitches], 1.0916308303010256
+[Adult, Foraging, Gray, Indifferent, PM, Running], 1.0916308303010256
+[Indifferent, Runs from], 1.0585511081706915
+[Black, Runs from], 1.0585511081706915
+[Climbing, Foraging, Running], 1.0585511081706915
+[Eating, Running, Tail twitches], 1.0585511081706915
+[Climbing, Runs from, Tail twitches], 1.0585511081706915
+[Eating, Foraging, Juvenile], 1.0585511081706915
+[Eating, Gray, Tail flags], 1.0585511081706915
+[Eating, Indifferent, PM, Running], 1.0585511081706915
+[Adult, Climbing, PM, Tail twitches], 1.0585511081706915
+[Cinnamon, Eating, Indifferent, PM], 1.0585511081706915
+[Gray, Indifferent, Running, Tail twitches], 1.0585511081706915
+[Adult, Indifferent, Running, Tail twitches], 1.0585511081706915
+[AM, Eating, Gray, Juvenile], 1.0585511081706915
+[Adult, Gray, Running, Runs from, Tail twitches], 1.0585511081706915
+[AM, Adult, Gray, Running, Tail twitches], 1.0585511081706915
+[Adult, Foraging, Gray, Indifferent, Tail flags], 1.0585511081706915
+[AM, Foraging, Gray, Indifferent, Juvenile], 1.0585511081706915
+[Climbing, Tail flags], 1.0254713860403573
+[Kuks, Runs from], 1.0254713860403573
+[AM, Foraging, Tail flags], 1.0254713860403573
+[Adult, Gray, Quaas], 1.0254713860403573
+[Adult, Approaches, Tail twitches], 1.0254713860403573
+[Climbing, PM, Running, Runs from], 1.0254713860403573
+[PM, Running, Runs from, Tail twitches], 1.0254713860403573
+[Climbing, Eating, Indifferent, PM], 1.0254713860403573
+[Cinnamon, Eating, Foraging, PM], 1.0254713860403573
+[Approaches, Eating, Gray, PM], 1.0254713860403573
+[Adult, Gray, Kuks, PM], 1.0254713860403573
+[Adult, Eating, Running, Runs from], 1.0254713860403573
+[Adult, Cinnamon, Foraging, Running], 1.0254713860403573
+[AM, Climbing, Foraging, Indifferent], 1.0254713860403573
+[AM, Climbing, Gray, Juvenile], 1.0254713860403573
+[Adult, Cinnamon, Eating, Foraging, PM], 1.0254713860403573
+[Adult, Foraging, PM, Runs from, Tail twitches], 1.0254713860403573
+[Adult, Approaches, Foraging, Gray, PM], 1.0254713860403573
+[Adult, Gray, Indifferent, PM, Tail flags], 1.0254713860403573
+[Adult, Foraging, Gray, Running, Tail twitches], 1.0254713860403573
+[Adult, Eating, Foraging, Gray, PM, Running], 1.0254713860403573
+[Adult, Eating, Foraging, Gray, Indifferent, Tail twitches], 1.0254713860403573
+==High-confidence association rules (min_conf=70.0%)
+[Chasing, Foraging, PM] => [Adult] (Conf: 100.0%, Supp: 1.1908699966920278%)
+[Cinnamon, Eating, Foraging, PM] => [Adult] (Conf: 100.0%, Supp: 1.0254713860403573%)
+[Eating, Foraging, Gray, PM, Tail twitches] => [Adult] (Conf: 100.0%, Supp: 1.257029440952696%)
+[Foraging, Gray, Indifferent, PM, Running] => [Adult] (Conf: 97.05882352941177%, Supp: 1.0916308303010256%)
+[Adult, Chasing, Climbing] => [Gray] (Conf: 95.34883720930233%, Supp: 1.3562686073436983%)
+[Chasing, Foraging, Gray] => [Adult] (Conf: 95.23809523809524%, Supp: 1.3231888852133642%)
+[Chasing, Runs from] => [Gray] (Conf: 95.0%, Supp: 1.257029440952696%)
+[Foraging, PM, Running, Runs from] => [Adult] (Conf: 94.73684210526316%, Supp: 1.1908699966920278%)
+[Eating, Gray, Indifferent, PM, Tail twitches] => [Adult] (Conf: 94.44444444444444%, Supp: 1.1247105524313596%)
+[Chasing, Gray, Indifferent, PM] => [Adult] (Conf: 94.11764705882352%, Supp: 1.587826662256037%)
+[Cinnamon, Foraging, Running] => [Adult] (Conf: 93.93939393939394%, Supp: 1.0254713860403573%)
+[Foraging, PM, Runs from, Tail twitches] => [Adult] (Conf: 93.93939393939394%, Supp: 1.0254713860403573%)
+[Eating, Foraging, Gray, PM, Running] => [Adult] (Conf: 93.93939393939394%, Supp: 1.0254713860403573%)
+[Foraging, Gray, PM, Running] => [Adult] (Conf: 93.81443298969072%, Supp: 3.0102547138604034%)
+[Chasing, Climbing] => [Gray] (Conf: 93.61702127659575%, Supp: 1.4555077737347006%)
+[Foraging, Gray, Running, Runs from] => [Adult] (Conf: 93.61702127659575%, Supp: 1.4555077737347006%)
+[Foraging, Gray, PM, Tail twitches] => [Adult] (Conf: 93.33333333333333%, Supp: 3.2418127687727423%)
+[Chasing, Climbing, Gray] => [Adult] (Conf: 93.18181818181819%, Supp: 1.3562686073436983%)
+[Black, Foraging] => [Adult] (Conf: 93.02325581395348%, Supp: 1.3231888852133642%)
+[Foraging, Gray, Runs from, Tail twitches] => [Adult] (Conf: 92.6829268292683%, Supp: 1.257029440952696%)
+[Foraging, Gray, Indifferent, PM, Tail twitches] => [Adult] (Conf: 92.3076923076923%, Supp: 1.587826662256037%)
+[AM, Cinnamon, Foraging, Indifferent] => [Adult] (Conf: 92.0%, Supp: 1.5216672179953687%)
+[Eating, Foraging, Gray, Indifferent, PM] => [Adult] (Conf: 91.34615384615385%, Supp: 3.14257360238174%)
+[Eating, Foraging, Gray, PM, Runs from] => [Adult] (Conf: 91.11111111111111%, Supp: 1.3562686073436983%)
+[Approaches, Cinnamon] => [Adult] (Conf: 90.9090909090909%, Supp: 1.3231888852133642%)
+[Black, Indifferent] => [Adult] (Conf: 90.9090909090909%, Supp: 1.3231888852133642%)
+[Foraging, Gray, Indifferent, PM] => [Adult] (Conf: 90.85714285714285%, Supp: 10.519351637446245%)
+[Cinnamon, Foraging, Indifferent] => [Adult] (Conf: 90.82568807339449%, Supp: 3.2748924909030768%)
+[Eating, Foraging, Gray, PM] => [Adult] (Conf: 90.625%, Supp: 5.755871650678134%)
+[Eating, Gray, PM, Tail twitches] => [Adult] (Conf: 90.32258064516128%, Supp: 1.8524644392987097%)
+[AM, Black] => [Adult] (Conf: 90.19607843137256%, Supp: 1.5216672179953687%)
+[Cinnamon, Eating, Foraging] => [Adult] (Conf: 90.19607843137256%, Supp: 1.5216672179953687%)
+[Cinnamon, Foraging, PM] => [Adult] (Conf: 90.1639344262295%, Supp: 3.6387694343367514%)
+[Eating, Foraging, Gray, Tail twitches] => [Adult] (Conf: 90.1639344262295%, Supp: 1.8193847171683757%)
+[AM, Cinnamon, Tail twitches] => [Adult] (Conf: 90.0%, Supp: 1.1908699966920278%)
+[AM, Adult, Chasing, Indifferent] => [Gray] (Conf: 90.0%, Supp: 1.7863049950380416%)
+[Foraging, Gray, Indifferent] => [Adult] (Conf: 89.9390243902439%, Supp: 19.517036056897123%)
+[Climbing, Gray, PM, Running] => [Adult] (Conf: 89.83050847457628%, Supp: 1.7532252729077076%)
+[Cinnamon, Foraging, Indifferent, PM] => [Adult] (Conf: 89.83050847457628%, Supp: 1.7532252729077076%)
+[Foraging, Gray, Tail twitches] => [Adult] (Conf: 89.78494623655915%, Supp: 5.524313595765796%)
+[Foraging, Gray, Indifferent, Running] => [Adult] (Conf: 89.70588235294117%, Supp: 2.0178630499503805%)
+[Foraging, Gray, Running] => [Adult] (Conf: 89.6969696969697%, Supp: 4.895798875289447%)
+[Cinnamon, Foraging] => [Adult] (Conf: 89.6551724137931%, Supp: 6.020509427720807%)
+[AM, Adult, Chasing] => [Gray] (Conf: 89.62264150943398%, Supp: 3.14257360238174%)
+[Adult, Eating, Indifferent, PM, Tail twitches] => [Gray] (Conf: 89.47368421052632%, Supp: 1.1247105524313596%)
+[Black] => [Adult] (Conf: 89.32038834951456%, Supp: 3.0433344359907375%)
+[Eating, Foraging, PM, Running] => [Gray] (Conf: 89.1891891891892%, Supp: 1.0916308303010256%)
+[Climbing, Gray, Running] => [Adult] (Conf: 89.0%, Supp: 2.9440952695997353%)
+[AM, Chasing, Indifferent] => [Gray] (Conf: 88.8888888888889%, Supp: 2.117102216341383%)
+[AM, Cinnamon, Foraging] => [Adult] (Conf: 88.8888888888889%, Supp: 2.3817399933840555%)
+[Eating, Gray, PM, Running] => [Adult] (Conf: 88.8888888888889%, Supp: 1.587826662256037%)
+[Foraging, Gray, Indifferent, Tail flags] => [Adult] (Conf: 88.8888888888889%, Supp: 1.0585511081706915%)
+[AM, Foraging, Gray, Indifferent] => [Adult] (Conf: 88.8888888888889%, Supp: 8.997684419450877%)
+[AM, Foraging, Indifferent, Juvenile] => [Gray] (Conf: 88.8888888888889%, Supp: 1.0585511081706915%)
+[Foraging, Gray, PM] => [Adult] (Conf: 88.84057971014492%, Supp: 20.27786966589481%)
+[Chasing, Gray, Indifferent] => [Adult] (Conf: 88.69565217391305%, Supp: 3.3741316572940785%)
+[AM, Gray, Tail flags] => [Adult] (Conf: 88.67924528301887%, Supp: 1.5547469401257028%)
+[Gray, Quaas] => [Adult] (Conf: 88.57142857142858%, Supp: 1.0254713860403573%)
+[Approaches, Tail twitches] => [Adult] (Conf: 88.57142857142858%, Supp: 1.0254713860403573%)
+[Adult, Kuks, PM] => [Gray] (Conf: 88.57142857142858%, Supp: 1.0254713860403573%)
+[Foraging, Gray, Running, Tail twitches] => [Adult] (Conf: 88.57142857142858%, Supp: 1.0254713860403573%)
+[Adult, Eating, Foraging, PM, Running] => [Gray] (Conf: 88.57142857142858%, Supp: 1.0254713860403573%)
+[Black, PM] => [Adult] (Conf: 88.46153846153847%, Supp: 1.5216672179953687%)
+[Foraging, Gray] => [Adult] (Conf: 88.41927303465765%, Supp: 34.60138934832948%)
+[Cinnamon, Foraging, Tail twitches] => [Adult] (Conf: 88.37209302325581%, Supp: 1.257029440952696%)
+[Climbing, Gray, Running, Runs from] => [Adult] (Conf: 88.37209302325581%, Supp: 1.257029440952696%)
+[AM, Adult, Eating, Runs from] => [Gray] (Conf: 88.23529411764706%, Supp: 1.4885874958650347%)
+[Eating, Foraging, Gray] => [Adult] (Conf: 88.21548821548821%, Supp: 8.666887198147535%)
+[AM, Gray, Indifferent, Tail twitches] => [Adult] (Conf: 88.15789473684211%, Supp: 2.2163413827323852%)
+[Adult, Eating, Indifferent, Tail twitches] => [Gray] (Conf: 88.13559322033898%, Supp: 1.7201455507773733%)
+[AM, Foraging, Gray] => [Adult] (Conf: 87.82961460446248%, Supp: 14.323519682434668%)
+[AM, Approaches] => [Adult] (Conf: 87.8048780487805%, Supp: 2.3817399933840555%)
+[AM, Climbing, Gray, Running] => [Adult] (Conf: 87.8048780487805%, Supp: 1.1908699966920278%)
+[AM, Chasing] => [Gray] (Conf: 87.78625954198473%, Supp: 3.804168044988422%)
+[Foraging, Gray, PM, Runs from] => [Adult] (Conf: 87.75510204081633%, Supp: 4.267284154813099%)
+[Foraging, Gray, Indifferent, Tail twitches] => [Adult] (Conf: 87.75510204081633%, Supp: 2.844856103208733%)
+[Gray, Indifferent, PM] => [Adult] (Conf: 87.64227642276423%, Supp: 17.829970228250083%)
+[AM, Gray, Indifferent, Running] => [Adult] (Conf: 87.60330578512396%, Supp: 3.506450545815415%)
+[Gray, Indifferent] => [Adult] (Conf: 87.53076292042657%, Supp: 35.296063513066485%)
+[Eating, Indifferent, Running] => [Gray] (Conf: 87.5%, Supp: 1.6209063843863711%)
+[Eating, Gray, PM, Runs from] => [Adult] (Conf: 87.5%, Supp: 2.3155805491233874%)
+[AM, Approaches, Foraging, Gray] => [Adult] (Conf: 87.5%, Supp: 1.1577902745616937%)
+[AM, Gray, Indifferent] => [Adult] (Conf: 87.41721854304637%, Supp: 17.46609328481641%)
+[AM, Climbing, Gray, Runs from] => [Adult] (Conf: 87.27272727272728%, Supp: 1.587826662256037%)
+[Adult, Climbing, Indifferent, PM] => [Gray] (Conf: 87.2340425531915%, Supp: 2.7125372146873965%)
+[Chasing, Gray, Tail twitches] => [Adult] (Conf: 87.17948717948718%, Supp: 1.1247105524313596%)
+[AM, Indifferent, Tail flags] => [Adult] (Conf: 87.17948717948718%, Supp: 1.1247105524313596%)
+[Adult, Runs from, Tail flags] => [Gray] (Conf: 87.17948717948718%, Supp: 1.1247105524313596%)
+[Eating, Gray, Indifferent, PM] => [Adult] (Conf: 87.08133971291866%, Supp: 6.020509427720807%)
+[Eating, Foraging, Gray, Indifferent] => [Adult] (Conf: 86.98224852071004%, Supp: 4.862719153159113%)
+[AM, Cinnamon, Indifferent] => [Adult] (Conf: 86.95652173913044%, Supp: 2.6463777704267284%)
+[Climbing, Indifferent, PM] => [Gray] (Conf: 86.8421052631579%, Supp: 3.2748924909030768%)
+[Gray, PM, Running, Runs from] => [Adult] (Conf: 86.66666666666667%, Supp: 3.4402911015547466%)
+[Adult, Eating, Indifferent, Running] => [Gray] (Conf: 86.66666666666667%, Supp: 1.2901091630830301%)
+[Eating, Gray, Indifferent, Tail twitches] => [Adult] (Conf: 86.66666666666667%, Supp: 1.7201455507773733%)
+[AM, Climbing, Gray] => [Adult] (Conf: 86.56716417910447%, Supp: 7.674495534237511%)
+[Foraging, Gray, Runs from] => [Adult] (Conf: 86.5546218487395%, Supp: 6.814422758848826%)
+[Climbing, Eating, Indifferent] => [Gray] (Conf: 86.53846153846155%, Supp: 1.4885874958650347%)
+[Foraging, Gray, Tail flags] => [Adult] (Conf: 86.53846153846155%, Supp: 1.4885874958650347%)
+[Gray, Indifferent, Running] => [Adult] (Conf: 86.52173913043477%, Supp: 6.582864703936487%)
+[Gray, Indifferent, Tail twitches] => [Adult] (Conf: 86.50306748466257%, Supp: 4.664240820377109%)
+[AM, Gray] => [Adult] (Conf: 86.47654093836246%, Supp: 31.09493880251406%)
+[Chasing, Indifferent] => [Gray] (Conf: 86.46616541353383%, Supp: 3.804168044988422%)
+[Eating, Foraging, Running] => [Gray] (Conf: 86.4406779661017%, Supp: 1.6870658286470392%)
+[Adult, Chasing, Indifferent] => [Gray] (Conf: 86.4406779661017%, Supp: 3.3741316572940785%)
+[Climbing, Foraging, Gray, PM] => [Adult] (Conf: 86.4406779661017%, Supp: 1.6870658286470392%)
+[Climbing, Foraging, Gray] => [Adult] (Conf: 86.40776699029125%, Supp: 2.9440952695997353%)
+[Indifferent, PM, Tail flags] => [Gray] (Conf: 86.36363636363636%, Supp: 1.257029440952696%)
+[AM, Climbing, Foraging, Gray] => [Adult] (Conf: 86.36363636363636%, Supp: 1.257029440952696%)
+[Gray, PM, Running] => [Adult] (Conf: 86.3095238095238%, Supp: 9.59311941779689%)
+[AM, Foraging, Juvenile] => [Gray] (Conf: 86.20689655172414%, Supp: 1.6539861065167052%)
+[Adult, Indifferent, PM, Tail flags] => [Gray] (Conf: 86.11111111111111%, Supp: 1.0254713860403573%)
+[Gray, Tail flags] => [Adult] (Conf: 86.0655737704918%, Supp: 3.473370823685081%)
+[Adult, Climbing, Eating, Indifferent] => [Gray] (Conf: 86.04651162790698%, Supp: 1.2239497188223618%)
+[Eating, Foraging, Indifferent, Tail twitches] => [Gray] (Conf: 86.04651162790698%, Supp: 1.2239497188223618%)
+[AM, Climbing, Gray, Indifferent] => [Adult] (Conf: 85.93749999999999%, Supp: 3.6387694343367514%)
+[Gray, Running] => [Adult] (Conf: 85.92964824120602%, Supp: 16.969897452861396%)
+[Gray] => [Adult] (Conf: 85.92802264456127%, Supp: 70.29440952695998%)
+[Eating, Foraging, Tail twitches] => [Gray] (Conf: 85.91549295774648%, Supp: 2.0178630499503805%)
+[Adult, Chasing] => [Gray] (Conf: 85.90308370044052%, Supp: 6.45054581541515%)
+[Adult, Climbing, PM, Runs from] => [Gray] (Conf: 85.8974358974359%, Supp: 2.2163413827323852%)
+[AM, Foraging, Runs from] => [Gray] (Conf: 85.84905660377359%, Supp: 3.0102547138604034%)
+[Eating, Gray, Runs from] => [Adult] (Conf: 85.82089552238806%, Supp: 3.804168044988422%)
+[Climbing, Eating, PM] => [Gray] (Conf: 85.71428571428572%, Supp: 1.587826662256037%)
+[Eating, Running, Runs from] => [Gray] (Conf: 85.71428571428572%, Supp: 1.1908699966920278%)
+[Adult, Eating, PM, Running] => [Gray] (Conf: 85.71428571428572%, Supp: 1.587826662256037%)
+[Eating, Gray, Tail twitches] => [Adult] (Conf: 85.71428571428571%, Supp: 2.9771749917300694%)
+[Eating, PM, Running] => [Gray] (Conf: 85.7142857142857%, Supp: 1.7863049950380416%)
+[AM, Adult, Foraging, Runs from] => [Gray] (Conf: 85.55555555555556%, Supp: 2.5471386040357262%)
+[Climbing, Gray] => [Adult] (Conf: 85.55347091932457%, Supp: 15.08435329143235%)
+[Adult, Kuks] => [Gray] (Conf: 85.52631578947368%, Supp: 2.150181938471717%)
+[AM, Eating, Foraging, Indifferent] => [Gray] (Conf: 85.52631578947368%, Supp: 2.150181938471717%)
+[Gray, PM] => [Adult] (Conf: 85.49783549783551%, Supp: 39.199470724445916%)
+[Adult, Chasing, Running] => [Gray] (Conf: 85.48387096774192%, Supp: 1.7532252729077076%)
+[Adult, Eating, Indifferent, PM] => [Gray] (Conf: 85.44600938967136%, Supp: 6.020509427720807%)
+[AM, Gray, Running] => [Adult] (Conf: 85.44061302681993%, Supp: 7.376778035064506%)
+[Adult, Indifferent, PM] => [Gray] (Conf: 85.41996830427891%, Supp: 17.829970228250083%)
+[Eating, Gray, PM] => [Adult] (Conf: 85.41666666666667%, Supp: 10.850148858749586%)
+[Gray, Indifferent, PM, Running] => [Adult] (Conf: 85.3211009174312%, Supp: 3.0764141581210716%)
+[Chasing] => [Gray] (Conf: 85.3046594982079%, Supp: 7.8729738670195175%)
+[Adult, PM, Tail flags] => [Gray] (Conf: 85.29411764705881%, Supp: 1.9186238835593779%)
+[Gray, Indifferent, Tail flags] => [Adult] (Conf: 85.29411764705881%, Supp: 1.9186238835593779%)
+[Gray, PM, Runs from] => [Adult] (Conf: 85.2664576802508%, Supp: 8.997684419450877%)
+[AM, Adult, Eating, Foraging, Indifferent] => [Gray] (Conf: 85.24590163934424%, Supp: 1.7201455507773733%)
+[Climbing, Gray, Runs from] => [Adult] (Conf: 85.18518518518519%, Supp: 3.804168044988422%)
+[AM, Foraging, Gray, Tail twitches] => [Adult] (Conf: 85.18518518518519%, Supp: 2.2825008269930533%)
+[Gray, Running, Runs from] => [Adult] (Conf: 85.16746411483254%, Supp: 5.888190539199471%)
+[Indifferent, PM, Running] => [Gray] (Conf: 85.15625%, Supp: 3.6056897122064178%)
+[Chasing, PM, Running] => [Gray] (Conf: 85.1063829787234%, Supp: 1.3231888852133642%)
+[AM, Adult, Foraging, Running] => [Gray] (Conf: 85.07462686567163%, Supp: 1.8855441614290438%)
+[Gray, Indifferent, PM, Tail twitches] => [Adult] (Conf: 85.05747126436782%, Supp: 2.4478994376447236%)
+[AM, Gray, Kuks] => [Adult] (Conf: 85.00000000000001%, Supp: 1.1247105524313596%)
+[AM, Cinnamon, Runs from] => [Adult] (Conf: 85.00000000000001%, Supp: 1.1247105524313596%)
+[Cinnamon, Eating, PM] => [Adult] (Conf: 85.0%, Supp: 1.6870658286470392%)
+[Eating, Foraging, Indifferent] => [Gray] (Conf: 84.9246231155779%, Supp: 5.590473040026464%)
+[Eating, Foraging, PM, Runs from] => [Gray] (Conf: 84.90566037735849%, Supp: 1.4885874958650347%)
+[Adult, Eating, Indifferent] => [Gray] (Conf: 84.88372093023257%, Supp: 9.659278862057558%)
+[Gray, PM, Tail twitches] => [Adult] (Conf: 84.73684210526315%, Supp: 5.325835262983791%)
+[Eating, Gray] => [Adult] (Conf: 84.65266558966074%, Supp: 17.33377439629507%)
+[Eating, Gray, Indifferent] => [Adult] (Conf: 84.63768115942028%, Supp: 9.659278862057558%)
+[Cinnamon, PM, Running] => [Adult] (Conf: 84.61538461538461%, Supp: 1.4555077737347006%)
+[Approaches, Foraging, Gray] => [Adult] (Conf: 84.61538461538461%, Supp: 2.183261660602051%)
+[Adult, Chasing, PM, Running] => [Gray] (Conf: 84.61538461538461%, Supp: 1.0916308303010256%)
+[AM, Foraging, Gray, Runs from] => [Adult] (Conf: 84.61538461538461%, Supp: 2.5471386040357262%)
+[AM, Gray, Runs from, Tail twitches] => [Adult] (Conf: 84.61538461538461%, Supp: 1.0916308303010256%)
+[Gray, Tail twitches] => [Adult] (Conf: 84.6153846153846%, Supp: 9.460800529275554%)
+[Adult, Eating, Foraging, Tail twitches] => [Gray] (Conf: 84.6153846153846%, Supp: 1.8193847171683757%)
+[Eating, Foraging, PM] => [Gray] (Conf: 84.58149779735682%, Supp: 6.351306649024148%)
+[Climbing, Gray, Indifferent] => [Adult] (Conf: 84.58149779735682%, Supp: 6.351306649024148%)
+[Gray, Runs from] => [Adult] (Conf: 84.57350272232304%, Supp: 15.415150512735693%)
+[Eating, Foraging, Indifferent, PM] => [Gray] (Conf: 84.55284552845528%, Supp: 3.4402911015547466%)
+[Adult, Indifferent, PM, Running] => [Gray] (Conf: 84.54545454545455%, Supp: 3.0764141581210716%)
+[Cinnamon, Indifferent] => [Adult] (Conf: 84.5303867403315%, Supp: 5.0611974859411175%)
+[Climbing, Gray, PM] => [Adult] (Conf: 84.52830188679246%, Supp: 7.409857757194839%)
+[Eating, Indifferent, Tail twitches] => [Gray] (Conf: 84.50704225352112%, Supp: 1.9847833278200462%)
+[Indifferent, PM] => [Gray] (Conf: 84.47802197802199%, Supp: 20.344029110155475%)
+[AM, Gray, Tail twitches] => [Adult] (Conf: 84.45945945945945%, Supp: 4.134965266291763%)
+[AM, Cinnamon] => [Adult] (Conf: 84.44444444444444%, Supp: 5.028117763810784%)
+[Juvenile, PM, Running] => [Gray] (Conf: 84.44444444444444%, Supp: 1.257029440952696%)
+[Eating, Foraging, PM, Tail twitches] => [Gray] (Conf: 84.44444444444444%, Supp: 1.257029440952696%)
+[Adult, Eating, Foraging, PM, Tail twitches] => [Gray] (Conf: 84.44444444444444%, Supp: 1.257029440952696%)
+[AM, Chasing, Gray, Indifferent] => [Adult] (Conf: 84.37499999999999%, Supp: 1.7863049950380416%)
+[Eating, Foraging, Gray, Running] => [Adult] (Conf: 84.31372549019608%, Supp: 1.4224280516043666%)
+[Climbing, Foraging, PM] => [Gray] (Conf: 84.28571428571428%, Supp: 1.9517036056897121%)
+[Eating, Indifferent, PM] => [Gray] (Conf: 84.27419354838709%, Supp: 6.913661925239828%)
+[Adult, Indifferent] => [Gray] (Conf: 84.21468034727702%, Supp: 35.296063513066485%)
+[Climbing, PM, Runs from] => [Gray] (Conf: 84.21052631578947%, Supp: 2.6463777704267284%)
+[Approaches, Gray] => [Adult] (Conf: 84.12698412698411%, Supp: 3.506450545815415%)
+[Adult, Foraging, Indifferent, PM] => [Gray] (Conf: 84.12698412698411%, Supp: 10.519351637446245%)
+[AM, Climbing, Tail twitches] => [Gray] (Conf: 84.0909090909091%, Supp: 1.2239497188223618%)
+[Gray, PM, Tail flags] => [Adult] (Conf: 84.05797101449274%, Supp: 1.9186238835593779%)
+[Cinnamon, Tail twitches] => [Adult] (Conf: 84.00000000000001%, Supp: 2.0840224942110486%)
+[Adult, Eating, Foraging, Indifferent] => [Gray] (Conf: 84.0%, Supp: 4.862719153159113%)
+[AM, Adult, Eating, Indifferent] => [Gray] (Conf: 83.96946564885496%, Supp: 3.6387694343367514%)
+[AM, Running, Runs from] => [Gray] (Conf: 83.9622641509434%, Supp: 2.9440952695997353%)
+[AM, Foraging, Running] => [Gray] (Conf: 83.95061728395062%, Supp: 2.2494211048627193%)
+[Eating, Indifferent] => [Gray] (Conf: 83.94160583941607%, Supp: 11.412504134965266%)
+[Adult, Eating, Runs from] => [Gray] (Conf: 83.94160583941607%, Supp: 3.804168044988422%)
+[Foraging, Juvenile] => [Gray] (Conf: 83.89830508474577%, Supp: 3.2748924909030768%)
+[Adult, Climbing, PM] => [Gray] (Conf: 83.89513108614231%, Supp: 7.409857757194839%)
+[Foraging, Indifferent, Juvenile] => [Gray] (Conf: 83.87096774193547%, Supp: 1.7201455507773733%)
+[Indifferent] => [Gray] (Conf: 83.83768913342503%, Supp: 40.324181276877276%)
+[AM, Foraging, Gray, Running] => [Adult] (Conf: 83.8235294117647%, Supp: 1.8855441614290438%)
+[AM, Adult, Eating, Foraging] => [Gray] (Conf: 83.8095238095238%, Supp: 2.9110155474694013%)
+[AM, Eating, Foraging, Gray] => [Adult] (Conf: 83.8095238095238%, Supp: 2.9110155474694013%)
+[Adult, Eating, Foraging, Indifferent, Tail twitches] => [Gray] (Conf: 83.78378378378379%, Supp: 1.0254713860403573%)
+[Eating, Foraging, Gray, Indifferent, Tail twitches] => [Adult] (Conf: 83.78378378378379%, Supp: 1.0254713860403573%)
+[Climbing, Gray, PM, Runs from] => [Adult] (Conf: 83.75%, Supp: 2.2163413827323852%)
+[Foraging, Indifferent, PM] => [Gray] (Conf: 83.73205741626795%, Supp: 11.577902745616937%)
+[Eating, Indifferent, PM, Tail twitches] => [Gray] (Conf: 83.72093023255815%, Supp: 1.1908699966920278%)
+[Adult, PM] => [Gray] (Conf: 83.6864406779661%, Supp: 39.199470724445916%)
+[Adult, Eating, Foraging, PM, Runs from] => [Gray] (Conf: 83.6734693877551%, Supp: 1.3562686073436983%)
+[Eating, Foraging] => [Gray] (Conf: 83.66197183098592%, Supp: 9.82467747270923%)
+[AM, Gray, Runs from] => [Adult] (Conf: 83.62068965517243%, Supp: 6.417466093284816%)
+[Adult, Indifferent, Running] => [Gray] (Conf: 83.61344537815125%, Supp: 6.582864703936487%)
+[Chasing, Indifferent, PM] => [Gray] (Conf: 83.60655737704917%, Supp: 1.6870658286470392%)
+[Approaches, Eating] => [Adult] (Conf: 83.5820895522388%, Supp: 1.8524644392987097%)
+[Adult, Eating, PM, Tail twitches] => [Gray] (Conf: 83.5820895522388%, Supp: 1.8524644392987097%)
+[Cinnamon, Running] => [Adult] (Conf: 83.49514563106796%, Supp: 2.844856103208733%)
+[Adult, Eating, Foraging] => [Gray] (Conf: 83.43949044585987%, Supp: 8.666887198147535%)
+[AM, Eating, Indifferent] => [Gray] (Conf: 83.43558282208589%, Supp: 4.498842209725439%)
+[AM, Eating, Gray] => [Adult] (Conf: 83.40425531914892%, Supp: 6.4836255375454845%)
+[PM, Running] => [Gray] (Conf: 83.37468982630274%, Supp: 11.114786635792258%)
+[Adult, Eating, Foraging, Indifferent, PM] => [Gray] (Conf: 83.33333333333334%, Supp: 3.14257360238174%)
+[Climbing, PM] => [Gray] (Conf: 83.33333333333334%, Supp: 8.766126364538538%)
+[Climbing, Foraging, Gray, Indifferent] => [Adult] (Conf: 83.33333333333334%, Supp: 1.3231888852133642%)
+[AM, Eating, Gray, Runs from] => [Adult] (Conf: 83.33333333333334%, Supp: 1.4885874958650347%)
+[Indifferent, Running] => [Gray] (Conf: 83.33333333333333%, Supp: 7.608336089976844%)
+[Adult, PM, Running] => [Gray] (Conf: 83.33333333333333%, Supp: 9.59311941779689%)
+[Adult, Eating, Foraging, PM] => [Gray] (Conf: 83.25358851674642%, Supp: 5.755871650678134%)
+[Adult, Eating, PM] => [Gray] (Conf: 83.248730964467%, Supp: 10.850148858749586%)
+[Foraging, Runs from] => [Gray] (Conf: 83.21678321678321%, Supp: 7.8729738670195175%)
+[AM, Indifferent] => [Gray] (Conf: 83.19559228650137%, Supp: 19.980152166721798%)
+[Cinnamon] => [Adult] (Conf: 83.16326530612245%, Supp: 10.78398941448892%)
+[Climbing, Indifferent] => [Gray] (Conf: 83.15018315018317%, Supp: 7.509096923585842%)
+[Adult, Indifferent, PM, Tail twitches] => [Gray] (Conf: 83.14606741573034%, Supp: 2.4478994376447236%)
+[AM, Gray, Running, Runs from] => [Adult] (Conf: 83.14606741573034%, Supp: 2.4478994376447236%)
+[Chasing, Running] => [Gray] (Conf: 83.11688311688312%, Supp: 2.117102216341383%)
+[Adult, Climbing, Indifferent] => [Gray] (Conf: 83.11688311688312%, Supp: 6.351306649024148%)
+[Chasing, PM] => [Gray] (Conf: 83.1081081081081%, Supp: 4.068805822031095%)
+[Foraging, Indifferent] => [Gray] (Conf: 83.03797468354432%, Supp: 21.700297717499172%)
+[AM, Adult, Indifferent] => [Gray] (Conf: 83.01886792452832%, Supp: 17.46609328481641%)
+[Chasing, Tail twitches] => [Gray] (Conf: 82.97872340425533%, Supp: 1.2901091630830301%)
+[Adult, Climbing, Eating, PM] => [Gray] (Conf: 82.97872340425533%, Supp: 1.2901091630830301%)
+[Climbing, Kuks] => [Gray] (Conf: 82.92682926829269%, Supp: 1.1247105524313596%)
+[Climbing, Juvenile, PM] => [Gray] (Conf: 82.92682926829269%, Supp: 1.1247105524313596%)
+[AM, Adult, Kuks] => [Gray] (Conf: 82.92682926829269%, Supp: 1.1247105524313596%)
+[Gray, Runs from, Tail flags] => [Adult] (Conf: 82.92682926829269%, Supp: 1.1247105524313596%)
+[AM, Foraging, Indifferent, Running] => [Gray] (Conf: 82.92682926829269%, Supp: 1.1247105524313596%)
+[AM, Indifferent, Juvenile] => [Gray] (Conf: 82.89473684210526%, Supp: 2.0840224942110486%)
+[Adult, Foraging, Indifferent] => [Gray] (Conf: 82.86516853932584%, Supp: 19.517036056897123%)
+[Adult, Indifferent, Tail flags] => [Gray] (Conf: 82.85714285714285%, Supp: 1.9186238835593779%)
+[Climbing, Gray, Indifferent, PM] => [Adult] (Conf: 82.82828282828282%, Supp: 2.7125372146873965%)
+[Chasing, Gray, Running] => [Adult] (Conf: 82.81249999999999%, Supp: 1.7532252729077076%)
+[Adult, Climbing, PM, Running] => [Gray] (Conf: 82.81249999999999%, Supp: 1.7532252729077076%)
+[AM, Adult, Indifferent, Running] => [Gray] (Conf: 82.81249999999999%, Supp: 3.506450545815415%)
+[Eating, PM] => [Gray] (Conf: 82.75862068965517%, Supp: 12.702613298048297%)
+[Adult, Chasing, Indifferent, PM] => [Gray] (Conf: 82.75862068965517%, Supp: 1.587826662256037%)
+[Adult] => [Gray] (Conf: 82.74922118380063%, Supp: 70.29440952695998%)
+[Foraging, PM] => [Gray] (Conf: 82.73381294964028%, Supp: 22.82500826993053%)
+[Adult, Foraging, Runs from] => [Gray] (Conf: 82.73092369477912%, Supp: 6.814422758848826%)
+[PM] => [Gray] (Conf: 82.69689737470168%, Supp: 45.84849487264307%)
+[Adult, PM, Runs from] => [Gray] (Conf: 82.67477203647417%, Supp: 8.997684419450877%)
+[Adult, Eating] => [Gray] (Conf: 82.64984227129337%, Supp: 17.33377439629507%)
+[Adult, Chasing, PM] => [Gray] (Conf: 82.64462809917354%, Supp: 3.3079722130334104%)
+[Adult, Foraging, PM] => [Gray] (Conf: 82.61455525606469%, Supp: 20.27786966589481%)
+[Adult, Eating, Running] => [Gray] (Conf: 82.6086956521739%, Supp: 2.514058881905392%)
+[AM, Chasing, Gray] => [Adult] (Conf: 82.6086956521739%, Supp: 3.14257360238174%)
+[AM, Foraging, Gray, Indifferent, Tail twitches] => [Adult] (Conf: 82.6086956521739%, Supp: 1.257029440952696%)
+[Chasing, Gray, PM, Running] => [Adult] (Conf: 82.5%, Supp: 1.0916308303010256%)
+[Foraging] => [Gray] (Conf: 82.4390243902439%, Supp: 39.13331128018525%)
+[AM, Cinnamon, Running] => [Adult] (Conf: 82.3529411764706%, Supp: 1.3893483294740323%)
+[Adult, Foraging, PM, Tail twitches] => [Gray] (Conf: 82.35294117647058%, Supp: 3.2418127687727423%)
+[Running, Runs from] => [Gray] (Conf: 82.28346456692913%, Supp: 6.913661925239828%)
+[Gray, Kuks] => [Adult] (Conf: 82.27848101265823%, Supp: 2.150181938471717%)
+[AM, Foraging, Indifferent] => [Gray] (Conf: 82.25806451612902%, Supp: 10.122394971882235%)
+[Adult, Climbing, Foraging, PM] => [Gray] (Conf: 82.25806451612902%, Supp: 1.6870658286470392%)
+[AM, Adult, Running, Runs from] => [Gray] (Conf: 82.22222222222223%, Supp: 2.4478994376447236%)
+[Climbing, Eating, Gray, Indifferent] => [Adult] (Conf: 82.22222222222223%, Supp: 1.2239497188223618%)
+[Adult, Foraging] => [Gray] (Conf: 82.16810683424981%, Supp: 34.60138934832948%)
+[PM, Tail flags] => [Gray] (Conf: 82.14285714285715%, Supp: 2.2825008269930533%)
+[Adult, Running] => [Gray] (Conf: 82.08000000000001%, Supp: 16.969897452861396%)
+[Cinnamon, PM] => [Adult] (Conf: 82.0754716981132%, Supp: 5.755871650678134%)
+[Adult, Foraging, Indifferent, Tail flags] => [Gray] (Conf: 82.05128205128206%, Supp: 1.0585511081706915%)
+[AM, Eating, Foraging] => [Gray] (Conf: 82.03125%, Supp: 3.473370823685081%)
+[AM, Foraging] => [Gray] (Conf: 82.02995008319466%, Supp: 16.30830301025471%)
+[Adult, Running, Runs from] => [Gray] (Conf: 82.02764976958525%, Supp: 5.888190539199471%)
+[Cinnamon, Indifferent, PM] => [Adult] (Conf: 82.02247191011236%, Supp: 2.4148197155143896%)
+[Adult, Climbing] => [Gray] (Conf: 82.01438848920863%, Supp: 15.08435329143235%)
+[Runs from, Tail flags] => [Gray] (Conf: 82.0%, Supp: 1.3562686073436983%)
+[Climbing, PM, Running] => [Gray] (Conf: 81.94444444444443%, Supp: 1.9517036056897121%)
+[Chasing, Gray] => [Adult] (Conf: 81.93277310924368%, Supp: 6.45054581541515%)
+[Indifferent, Tail flags] => [Gray] (Conf: 81.9277108433735%, Supp: 2.2494211048627193%)
+[Gray, Runs from, Tail twitches] => [Adult] (Conf: 81.91489361702128%, Supp: 2.5471386040357262%)
+[Adult, PM, Running, Runs from] => [Gray] (Conf: 81.88976377952756%, Supp: 3.4402911015547466%)
+[Adult, Eating, Tail twitches] => [Gray] (Conf: 81.81818181818183%, Supp: 2.9771749917300694%)
+[AM, Eating, Runs from] => [Gray] (Conf: 81.81818181818181%, Supp: 1.7863049950380416%)
+[PM, Runs from] => [Gray] (Conf: 81.79487179487181%, Supp: 10.552431359576579%)
+[Running] => [Gray] (Conf: 81.78082191780823%, Supp: 19.74859411180946%)
+[AM, Indifferent, Running] => [Gray] (Conf: 81.75675675675676%, Supp: 4.002646377770427%)
+[Eating, Gray, Running] => [Adult] (Conf: 81.72043010752688%, Supp: 2.514058881905392%)
+[Eating, Runs from] => [Gray] (Conf: 81.70731707317074%, Supp: 4.4326827654647705%)
+[Foraging, PM, Runs from] => [Gray] (Conf: 81.66666666666667%, Supp: 4.862719153159113%)
+[Foraging, Juvenile, PM] => [Gray] (Conf: 81.66666666666667%, Supp: 1.6209063843863711%)
+[AM, Adult, Eating] => [Gray] (Conf: 81.66666666666667%, Supp: 6.4836255375454845%)
+[Eating, PM, Runs from] => [Gray] (Conf: 81.63265306122449%, Supp: 2.6463777704267284%)
+[Adult, Runs from] => [Gray] (Conf: 81.61120840630473%, Supp: 15.415150512735693%)
+[Cinnamon, Runs from] => [Adult] (Conf: 81.60919540229885%, Supp: 2.3486602712537215%)
+[AM, Adult] => [Gray] (Conf: 81.59722222222221%, Supp: 31.09493880251406%)
+[Approaches, Foraging, Gray, PM] => [Adult] (Conf: 81.57894736842107%, Supp: 1.0254713860403573%)
+[Gray, Indifferent, PM, Tail flags] => [Adult] (Conf: 81.57894736842107%, Supp: 1.0254713860403573%)
+[Eating, Running] => [Gray] (Conf: 81.57894736842105%, Supp: 3.0764141581210716%)
+[AM, Adult, Foraging] => [Gray] (Conf: 81.54425612052731%, Supp: 14.323519682434668%)
+[Eating] => [Gray] (Conf: 81.44736842105263%, Supp: 20.47634799867681%)
+[AM, Adult, Foraging, Indifferent] => [Gray] (Conf: 81.437125748503%, Supp: 8.997684419450877%)
+[Adult, Eating, PM, Runs from] => [Gray] (Conf: 81.3953488372093%, Supp: 2.3155805491233874%)
+[Adult, Foraging, Indifferent, PM, Tail twitches] => [Gray] (Conf: 81.35593220338984%, Supp: 1.587826662256037%)
+[Adult, PM, Tail twitches] => [Gray] (Conf: 81.31313131313131%, Supp: 5.325835262983791%)
+[Chasing, Gray, PM] => [Adult] (Conf: 81.30081300813008%, Supp: 3.3079722130334104%)
+[Runs from] => [Gray] (Conf: 81.26843657817109%, Supp: 18.226926893814092%)
+[Kuks, PM] => [Gray] (Conf: 81.25%, Supp: 1.2901091630830301%)
+[AM, Cinnamon, Climbing] => [Adult] (Conf: 81.25%, Supp: 1.2901091630830301%)
+[Climbing, Eating, Gray, PM] => [Adult] (Conf: 81.25%, Supp: 1.2901091630830301%)
+[AM, Eating, Tail twitches] => [Gray] (Conf: 81.13207547169812%, Supp: 1.4224280516043666%)
+[Adult, Foraging, PM, Runs from] => [Gray] (Conf: 81.13207547169812%, Supp: 4.267284154813099%)
+[Climbing, Foraging] => [Gray] (Conf: 81.10236220472441%, Supp: 3.407211379424413%)
+[PM, Running, Runs from] => [Gray] (Conf: 81.08108108108108%, Supp: 3.9695666556400924%)
+[Climbing] => [Gray] (Conf: 81.0030395136778%, Supp: 17.63149189546808%)
+[Foraging, Indifferent, Running] => [Gray] (Conf: 80.95238095238095%, Supp: 2.2494211048627193%)
+[Adult, Chasing, Tail twitches] => [Gray] (Conf: 80.95238095238095%, Supp: 1.1247105524313596%)
+[Climbing, Eating, Foraging] => [Gray] (Conf: 80.95238095238095%, Supp: 1.1247105524313596%)
+[Foraging, Running] => [Gray] (Conf: 80.88235294117648%, Supp: 5.458154151505128%)
+[AM, Eating, Gray, Indifferent] => [Adult] (Conf: 80.88235294117646%, Supp: 3.6387694343367514%)
+[Adult, Tail flags] => [Gray] (Conf: 80.76923076923077%, Supp: 3.473370823685081%)
+[Foraging, PM, Tail twitches] => [Gray] (Conf: 80.76923076923077%, Supp: 3.473370823685081%)
+[AM] => [Gray] (Conf: 80.69784706755753%, Supp: 35.95765795567317%)
+[PM, Running, Tail twitches] => [Gray] (Conf: 80.64516129032258%, Supp: 1.6539861065167052%)
+[AM, Runs from] => [Gray] (Conf: 80.55555555555554%, Supp: 7.674495534237511%)
+[Approaches, Gray, PM] => [Adult] (Conf: 80.55555555555554%, Supp: 1.9186238835593779%)
+[AM, Adult, Running] => [Gray] (Conf: 80.50541516245488%, Supp: 7.376778035064506%)
+[AM, Climbing, Indifferent] => [Gray] (Conf: 80.50314465408806%, Supp: 4.234204432682766%)
+[Climbing, Foraging, Runs from] => [Gray] (Conf: 80.48780487804879%, Supp: 1.0916308303010256%)
+[Adult, Foraging, Running] => [Gray] (Conf: 80.43478260869566%, Supp: 4.895798875289447%)
+[Adult, Foraging, Tail flags] => [Gray] (Conf: 80.35714285714286%, Supp: 1.4885874958650347%)
+[AM, Adult, Climbing, Indifferent] => [Gray] (Conf: 80.2919708029197%, Supp: 3.6387694343367514%)
+[AM, Adult, Climbing] => [Gray] (Conf: 80.27681660899653%, Supp: 7.674495534237511%)
+[Adult, Foraging, Indifferent, Running] => [Gray] (Conf: 80.26315789473685%, Supp: 2.0178630499503805%)
+[Adult, Climbing, Running] => [Gray] (Conf: 80.18018018018017%, Supp: 2.9440952695997353%)
+[Adult, Climbing, Foraging] => [Gray] (Conf: 80.18018018018017%, Supp: 2.9440952695997353%)
+[AM, Adult, Runs from] => [Gray] (Conf: 80.16528925619836%, Supp: 6.417466093284816%)
+[Eating, Tail twitches] => [Gray] (Conf: 80.1526717557252%, Supp: 3.473370823685081%)
+[Adult, Indifferent, Tail twitches] => [Gray] (Conf: 80.11363636363636%, Supp: 4.664240820377109%)
+[Eating, Tail flags] => [Gray] (Conf: 80.0%, Supp: 1.0585511081706915%)
+[Climbing, Foraging, Indifferent] => [Gray] (Conf: 80.0%, Supp: 1.587826662256037%)
+[Foraging, Indifferent, Tail flags] => [Gray] (Conf: 80.0%, Supp: 1.1908699966920278%)
+[Gray, PM, Runs from, Tail twitches] => [Adult] (Conf: 80.0%, Supp: 1.4555077737347006%)
+[Adult, Foraging, Running, Runs from] => [Gray] (Conf: 80.0%, Supp: 1.4555077737347006%)
+[Adult, Climbing, Foraging, Indifferent] => [Gray] (Conf: 80.0%, Supp: 1.3231888852133642%)
+[AM, Eating, Foraging, Gray, Indifferent] => [Adult] (Conf: 80.0%, Supp: 1.7201455507773733%)
+[PM, Tail twitches] => [Gray] (Conf: 79.83193277310924%, Supp: 6.28514720476348%)
+[AM, Running] => [Gray] (Conf: 79.81651376146789%, Supp: 8.633807476017202%)
+[Indifferent, PM, Tail twitches] => [Gray] (Conf: 79.81651376146789%, Supp: 2.877935825339067%)
+[Foraging, Running, Runs from] => [Gray] (Conf: 79.66101694915254%, Supp: 1.5547469401257028%)
+[Climbing, Running, Runs from] => [Gray] (Conf: 79.62962962962963%, Supp: 1.4224280516043666%)
+[Cinnamon, Eating, Indifferent] => [Adult] (Conf: 79.62962962962963%, Supp: 1.4224280516043666%)
+[Eating, Gray, Indifferent, Running] => [Adult] (Conf: 79.59183673469387%, Supp: 1.2901091630830301%)
+[Eating, PM, Tail twitches] => [Gray] (Conf: 79.48717948717949%, Supp: 2.0509427720807145%)
+[Gray, Kuks, PM] => [Adult] (Conf: 79.48717948717949%, Supp: 1.0254713860403573%)
+[AM, Eating] => [Gray] (Conf: 79.3918918918919%, Supp: 7.773734700628515%)
+[Cinnamon, Eating] => [Adult] (Conf: 79.27927927927928%, Supp: 2.9110155474694013%)
+[Cinnamon, Climbing] => [Adult] (Conf: 79.26829268292683%, Supp: 2.150181938471717%)
+[Climbing, Eating, Gray] => [Adult] (Conf: 79.26829268292683%, Supp: 2.150181938471717%)
+[Adult, Climbing, Running, Runs from] => [Gray] (Conf: 79.16666666666667%, Supp: 1.257029440952696%)
+[Indifferent, Juvenile] => [Gray] (Conf: 79.16666666666666%, Supp: 3.7710883228580876%)
+[Running, Tail flags] => [Gray] (Conf: 79.06976744186048%, Supp: 1.1247105524313596%)
+[Foraging, Indifferent, PM, Running] => [Gray] (Conf: 79.06976744186048%, Supp: 1.1247105524313596%)
+[AM, Adult, Eating, Tail twitches] => [Gray] (Conf: 79.06976744186048%, Supp: 1.1247105524313596%)
+[AM, Eating, Gray, Tail twitches] => [Adult] (Conf: 79.06976744186048%, Supp: 1.1247105524313596%)
+[Foraging, PM, Running] => [Gray] (Conf: 78.86178861788619%, Supp: 3.208733046642408%)
+[Foraging, Runs from, Tail twitches] => [Gray] (Conf: 78.84615384615385%, Supp: 1.3562686073436983%)
+[AM, Climbing] => [Gray] (Conf: 78.82352941176471%, Supp: 8.865365530929541%)
+[Foraging, Tail flags] => [Gray] (Conf: 78.78787878787877%, Supp: 1.7201455507773733%)
+[Foraging, Indifferent, PM, Tail twitches] => [Gray] (Conf: 78.78787878787877%, Supp: 1.7201455507773733%)
+[Adult, Climbing, Runs from] => [Gray] (Conf: 78.76712328767124%, Supp: 3.804168044988422%)
+[Indifferent, Tail twitches] => [Gray] (Conf: 78.743961352657%, Supp: 5.39199470724446%)
+[Cinnamon, PM, Runs from] => [Adult] (Conf: 78.72340425531915%, Supp: 1.2239497188223618%)
+[Tail flags] => [Gray] (Conf: 78.70967741935485%, Supp: 4.035726099900761%)
+[Adult, PM, Runs from, Tail twitches] => [Gray] (Conf: 78.57142857142858%, Supp: 1.4555077737347006%)
+[Adult, Foraging, Indifferent, PM, Running] => [Gray] (Conf: 78.57142857142858%, Supp: 1.0916308303010256%)
+[PM, Runs from, Tail twitches] => [Gray] (Conf: 78.57142857142856%, Supp: 1.8193847171683757%)
+[Foraging, Tail twitches] => [Gray] (Conf: 78.48101265822784%, Supp: 6.152828316242143%)
+[Climbing, Gray, Tail twitches] => [Adult] (Conf: 78.46153846153845%, Supp: 1.6870658286470392%)
+[AM, Approaches, Foraging] => [Gray] (Conf: 78.43137254901961%, Supp: 1.3231888852133642%)
+[Adult, Foraging, Tail twitches] => [Gray] (Conf: 78.40375586854461%, Supp: 5.524313595765796%)
+[Runs from, Tail twitches] => [Gray] (Conf: 78.33333333333333%, Supp: 3.1094938802514056%)
+[Adult, Climbing, Eating] => [Gray] (Conf: 78.31325301204821%, Supp: 2.150181938471717%)
+[AM, Juvenile] => [Gray] (Conf: 78.28947368421052%, Supp: 3.9364869335097588%)
+[Climbing, Eating] => [Gray] (Conf: 78.0952380952381%, Supp: 2.7125372146873965%)
+[Juvenile, Running] => [Gray] (Conf: 78.04878048780488%, Supp: 2.117102216341383%)
+[Climbing, PM, Tail twitches] => [Adult] (Conf: 78.04878048780488%, Supp: 1.0585511081706915%)
+[Indifferent, Running, Tail twitches] => [Gray] (Conf: 78.04878048780488%, Supp: 1.0585511081706915%)
+[Gray, Running, Runs from, Tail twitches] => [Adult] (Conf: 78.04878048780488%, Supp: 1.0585511081706915%)
+[AM, Gray, Running, Tail twitches] => [Adult] (Conf: 78.04878048780488%, Supp: 1.0585511081706915%)
+[Climbing, Runs from] => [Gray] (Conf: 78.03468208092485%, Supp: 4.465762487595104%)
+[AM, Runs from, Tail twitches] => [Gray] (Conf: 78.0%, Supp: 1.2901091630830301%)
+[Adult, Tail twitches] => [Gray] (Conf: 77.9291553133515%, Supp: 9.460800529275554%)
+[Tail twitches] => [Gray] (Conf: 77.88018433179724%, Supp: 11.180946080052928%)
+[Chasing, Foraging] => [Gray] (Conf: 77.77777777777779%, Supp: 1.3893483294740323%)
+[Adult, Foraging, PM, Running] => [Gray] (Conf: 77.77777777777779%, Supp: 3.0102547138604034%)
+[AM, Adult, Approaches, Foraging] => [Gray] (Conf: 77.77777777777779%, Supp: 1.1577902745616937%)
+[Juvenile] => [Gray] (Conf: 77.57575757575758%, Supp: 8.468408865365532%)
+[AM, Indifferent, Tail twitches] => [Gray] (Conf: 77.55102040816327%, Supp: 2.514058881905392%)
+[Adult, PM, Running, Tail twitches] => [Gray] (Conf: 77.55102040816327%, Supp: 1.257029440952696%)
+[AM, Adult, Climbing, Foraging] => [Gray] (Conf: 77.55102040816327%, Supp: 1.257029440952696%)
+[Adult, Foraging, Runs from, Tail twitches] => [Gray] (Conf: 77.55102040816327%, Supp: 1.257029440952696%)
+[Climbing, Running] => [Gray] (Conf: 77.51937984496124%, Supp: 3.3079722130334104%)
+[Adult, Quaas] => [Gray] (Conf: 77.5%, Supp: 1.0254713860403573%)
+[Kuks] => [Gray] (Conf: 77.45098039215686%, Supp: 2.6132980482963943%)
+[Running, Runs from, Tail twitches] => [Gray] (Conf: 77.35849056603774%, Supp: 1.3562686073436983%)
+[Eating, Indifferent, Juvenile] => [Gray] (Conf: 77.35849056603774%, Supp: 1.3562686073436983%)
+[Juvenile, Tail twitches] => [Gray] (Conf: 77.19298245614036%, Supp: 1.4555077737347006%)
+[AM, Climbing, Foraging] => [Gray] (Conf: 77.19298245614036%, Supp: 1.4555077737347006%)
+[Running, Tail twitches] => [Gray] (Conf: 77.11864406779661%, Supp: 3.0102547138604034%)
+[AM, Adult, Indifferent, Tail twitches] => [Gray] (Conf: 77.01149425287358%, Supp: 2.2163413827323852%)
+[Adult, Runs from, Tail twitches] => [Gray] (Conf: 77.0%, Supp: 2.5471386040357262%)
+[Juvenile, PM] => [Gray] (Conf: 76.96629213483146%, Supp: 4.531921931855773%)
+[Gray, Running, Tail twitches] => [Adult] (Conf: 76.92307692307693%, Supp: 2.3155805491233874%)
+[Climbing, Indifferent, Running] => [Gray] (Conf: 76.74418604651163%, Supp: 1.0916308303010256%)
+[AM, Adult, Climbing, Running] => [Gray] (Conf: 76.59574468085107%, Supp: 1.1908699966920278%)
+[Juvenile, Runs from] => [Gray] (Conf: 76.54320987654322%, Supp: 2.0509427720807145%)
+[Climbing, Tail twitches] => [Gray] (Conf: 76.47058823529413%, Supp: 2.150181938471717%)
+[AM, Eating, Running] => [Gray] (Conf: 76.47058823529413%, Supp: 1.2901091630830301%)
+[Adult, Climbing, Tail twitches] => [Gray] (Conf: 76.11940298507461%, Supp: 1.6870658286470392%)
+[Adult, Foraging, Indifferent, Tail twitches] => [Gray] (Conf: 76.10619469026548%, Supp: 2.844856103208733%)
+[Gray, PM, Running, Tail twitches] => [Adult] (Conf: 76.0%, Supp: 1.257029440952696%)
+[Foraging, Indifferent, Tail twitches] => [Gray] (Conf: 75.96899224806202%, Supp: 3.2418127687727423%)
+[AM, Adult, Tail flags] => [Gray] (Conf: 75.80645161290322%, Supp: 1.5547469401257028%)
+[AM, Foraging, Tail twitches] => [Gray] (Conf: 75.70093457943925%, Supp: 2.6794574925570624%)
+[Approaches, Eating, PM] => [Gray] (Conf: 75.60975609756099%, Supp: 1.0254713860403573%)
+[Climbing, Juvenile] => [Gray] (Conf: 75.5813953488372%, Supp: 2.150181938471717%)
+[AM, Tail twitches] => [Gray] (Conf: 75.51020408163266%, Supp: 4.895798875289447%)
+[Eating, Juvenile, PM] => [Gray] (Conf: 75.51020408163266%, Supp: 1.2239497188223618%)
+[AM, Adult, Runs from, Tail twitches] => [Gray] (Conf: 75.00000000000001%, Supp: 1.0916308303010256%)
+[Approaches, PM] => [Gray] (Conf: 75.0%, Supp: 2.3817399933840555%)
+[Approaches, Foraging] => [Gray] (Conf: 75.0%, Supp: 2.5802183261660603%)
+[Indifferent, Juvenile, PM] => [Gray] (Conf: 74.99999999999999%, Supp: 1.6870658286470392%)
+[AM, Tail flags] => [Gray] (Conf: 74.64788732394365%, Supp: 1.7532252729077076%)
+[Adult, Running, Tail twitches] => [Gray] (Conf: 74.46808510638299%, Supp: 2.3155805491233874%)
+[Adult, Running, Runs from, Tail twitches] => [Gray] (Conf: 74.4186046511628%, Supp: 1.0585511081706915%)
+[AM, Kuks] => [Gray] (Conf: 74.07407407407408%, Supp: 1.3231888852133642%)
+[AM, Approaches, Gray] => [Foraging] (Conf: 74.07407407407408%, Supp: 1.3231888852133642%)
+[AM, Adult, Tail twitches] => [Gray] (Conf: 73.96449704142012%, Supp: 4.134965266291763%)
+[AM, Climbing, Eating] => [Adult] (Conf: 73.46938775510205%, Supp: 1.1908699966920278%)
+[Adult, Approaches, PM] => [Gray] (Conf: 73.41772151898734%, Supp: 1.9186238835593779%)
+[AM, Adult, Foraging, Tail twitches] => [Gray] (Conf: 73.40425531914893%, Supp: 2.2825008269930533%)
+[Juvenile, PM, Runs from] => [Gray] (Conf: 73.33333333333334%, Supp: 1.0916308303010256%)
+[AM, Running, Tail twitches] => [Gray] (Conf: 73.21428571428572%, Supp: 1.3562686073436983%)
+[AM, Foraging, Indifferent, Tail twitches] => [Gray] (Conf: 73.01587301587301%, Supp: 1.5216672179953687%)
+[Foraging, Running, Tail twitches] => [Gray] (Conf: 72.91666666666667%, Supp: 1.1577902745616937%)
+[AM, Adult, Approaches, Gray] => [Foraging] (Conf: 72.91666666666667%, Supp: 1.1577902745616937%)
+[Adult, Cinnamon, Indifferent, PM] => [Foraging] (Conf: 72.6027397260274%, Supp: 1.7532252729077076%)
+[AM, Cinnamon, Eating] => [Adult] (Conf: 72.54901960784315%, Supp: 1.2239497188223618%)
+[Adult, Approaches, Foraging] => [Gray] (Conf: 72.52747252747254%, Supp: 2.183261660602051%)
+[Adult, Foraging, Running, Tail twitches] => [Gray] (Conf: 72.09302325581396%, Supp: 1.0254713860403573%)
+[Adult, Eating, Foraging, Gray, Running] => [PM] (Conf: 72.09302325581396%, Supp: 1.0254713860403573%)
+[Adult, Eating, Foraging, Runs from] => [PM] (Conf: 72.05882352941175%, Supp: 1.6209063843863711%)
+[AM, Climbing, Running] => [Gray] (Conf: 71.9298245614035%, Supp: 1.3562686073436983%)
+[Approaches, Foraging, PM] => [Gray] (Conf: 71.69811320754718%, Supp: 1.257029440952696%)
+[Adult, Eating, Foraging, Running] => [PM] (Conf: 71.42857142857143%, Supp: 1.1577902745616937%)
+[Eating, Foraging, Gray, Runs from] => [PM] (Conf: 71.42857142857142%, Supp: 1.4885874958650347%)
+[Eating, Juvenile] => [Gray] (Conf: 71.1340206185567%, Supp: 2.2825008269930533%)
+[AM, Adult, Running, Tail twitches] => [Gray] (Conf: 71.11111111111111%, Supp: 1.0585511081706915%)
+[Adult, Foraging, Gray, Tail flags] => [Indifferent] (Conf: 71.11111111111111%, Supp: 1.0585511081706915%)
+[Approaches] => [Gray] (Conf: 70.7865168539326%, Supp: 4.168044988422097%)
+[Adult, Eating, Foraging, Gray, Runs from] => [PM] (Conf: 70.68965517241381%, Supp: 1.3562686073436983%)
+[Eating, Foraging, Runs from] => [PM] (Conf: 70.66666666666666%, Supp: 1.7532252729077076%)
+[Adult, Chasing, Foraging] => [PM] (Conf: 70.58823529411765%, Supp: 1.1908699966920278%)
+[AM, Adult, Climbing, Runs from] => [Gray] (Conf: 70.58823529411764%, Supp: 1.587826662256037%)
+[AM, Climbing, Runs from] => [Gray] (Conf: 70.51282051282051%, Supp: 1.8193847171683757%)
+[Approaches, Eating, Gray] => [PM] (Conf: 70.45454545454545%, Supp: 1.0254713860403573%)
+[AM, Adult, Foraging, Indifferent, Tail twitches] => [Gray] (Conf: 70.37037037037037%, Supp: 1.257029440952696%)
+[Adult, Approaches] => [Gray] (Conf: 70.19867549668875%, Supp: 3.506450545815415%)
+[Quaas] => [Gray] (Conf: 70.0%, Supp: 1.1577902745616937%)
