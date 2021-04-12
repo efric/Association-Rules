@@ -1,0 +1,151 @@
+==Frequent itemsets (min_sup=10.0%)
+[Adult], 84.94872643069799
+[Gray], 81.80615282831624
+[Adult, Gray], 70.29440952695998
+[PM], 55.44161429043996
+[Indifferent], 48.09791597750579
+[Foraging], 47.46940125702944
+[Adult, PM], 46.84088653655309
+[Gray, PM], 45.84849487264307
+[AM], 44.55838570956004
+[Adult, Foraging], 42.11048627191531
+[Adult, Indifferent], 41.91200793913331
+[Gray, Indifferent], 40.324181276877276
+[Adult, Gray, PM], 39.199470724445916
+[Foraging, Gray], 39.13331128018525
+[AM, Adult], 38.10783989414489
+[AM, Gray], 35.95765795567317
+[Adult, Gray, Indifferent], 35.296063513066485
+[Adult, Foraging, Gray], 34.60138934832948
+[AM, Adult, Gray], 31.09493880251406
+[Foraging, PM], 27.588488256698646
+[Foraging, Indifferent], 26.13298048296394
+[Eating], 25.14058881905392
+[Adult, Foraging, PM], 24.545153820707906
+[Running], 24.148197155143897
+[Indifferent, PM], 24.082037710883228
+[AM, Indifferent], 24.01587826662256
+[Adult, Foraging, Indifferent], 23.552762156797883
+[Foraging, Gray, PM], 22.82500826993053
+[Runs from], 22.428051604366523
+[Climbing], 21.766457161759842
+[Foraging, Gray, Indifferent], 21.700297717499172
+[AM, Adult, Indifferent], 21.03870327489249
+[Adult, Eating], 20.972543830631825
+[Adult, Indifferent, PM], 20.87330466424082
+[Adult, Running], 20.674826331458814
+[Eating, Gray], 20.47634799867681
+[Gray, Indifferent, PM], 20.344029110155475
+[Adult, Foraging, Gray, PM], 20.27786966589481
+[AM, Gray, Indifferent], 19.980152166721798
+[AM, Foraging], 19.880913000330796
+[Gray, Running], 19.74859411180946
+[Adult, Foraging, Gray, Indifferent], 19.517036056897123
+[Adult, Runs from], 18.888521336420773
+[Adult, Climbing], 18.392325504465763
+[Gray, Runs from], 18.226926893814092
+[Adult, Gray, Indifferent, PM], 17.829970228250083
+[Climbing, Gray], 17.63149189546808
+[AM, Adult, Foraging], 17.56533245120741
+[AM, Adult, Gray, Indifferent], 17.46609328481641
+[Adult, Eating, Gray], 17.33377439629507
+[Adult, Gray, Running], 16.969897452861396
+[AM, Foraging, Gray], 16.30830301025471
+[Adult, Gray, Runs from], 15.415150512735693
+[Eating, PM], 15.348991068475023
+[Adult, Climbing, Gray], 15.08435329143235
+[Tail twitches], 14.356599404565001
+[AM, Adult, Foraging, Gray], 14.323519682434668
+[Foraging, Indifferent, PM], 13.827323850479656
+[Eating, Indifferent], 13.595765795567317
+[PM, Running], 13.331128018524643
+[Adult, Eating, PM], 13.033410519351637
+[Cinnamon], 12.967251075090969
+[PM, Runs from], 12.9010916308303
+[Eating, Gray, PM], 12.702613298048297
+[Adult, Foraging, Indifferent, PM], 12.504134965266292
+[AM, Foraging, Indifferent], 12.305656632484286
+[Adult, Tail twitches], 12.140258021832617
+[Eating, Foraging], 11.743301356268606
+[Foraging, Gray, Indifferent, PM], 11.577902745616937
+[Adult, PM, Running], 11.511743301356269
+[Eating, Gray, Indifferent], 11.412504134965266
+[Adult, Eating, Indifferent], 11.379424412834933
+[AM, Climbing], 11.247105524313596
+[Gray, Tail twitches], 11.180946080052928
+[Gray, PM, Running], 11.114786635792258
+[AM, Adult, Foraging, Indifferent], 11.048627191531592
+[Juvenile], 10.916308303010256
+[Adult, PM, Runs from], 10.883228580879921
+[Adult, Eating, Gray, PM], 10.850148858749586
+[AM, Running], 10.817069136619253
+[Adult, Cinnamon], 10.78398941448892
+[Gray, PM, Runs from], 10.552431359576579
+[Climbing, PM], 10.519351637446245
+[Adult, Foraging, Gray, Indifferent, PM], 10.519351637446245
+[Adult, Eating, Foraging], 10.38703274892491
+[AM, Foraging, Gray, Indifferent], 10.122394971882235
+==High-confidence association rules (min_conf=30.0%)
+[Foraging, Gray, Indifferent, PM] => [Adult] (Conf: 90.85714285714285%, Supp: 10.519351637446245%)
+[Eating, Foraging] => [Adult] (Conf: 88.45070422535211%, Supp: 10.38703274892491%)
+[Climbing, Gray] => [Adult] (Conf: 85.55347091932457%, Supp: 15.08435329143235%)
+[Eating, Gray, PM] => [Adult] (Conf: 85.41666666666667%, Supp: 10.850148858749586%)
+[Adult, Foraging, Indifferent, PM] => [Gray] (Conf: 84.12698412698411%, Supp: 10.519351637446245%)
+[Eating, Indifferent] => [Gray] (Conf: 83.94160583941607%, Supp: 11.412504134965266%)
+[Foraging, Indifferent, PM] => [Gray] (Conf: 83.73205741626795%, Supp: 11.577902745616937%)
+[PM, Running] => [Gray] (Conf: 83.37468982630274%, Supp: 11.114786635792258%)
+[Adult, Eating, PM] => [Gray] (Conf: 83.248730964467%, Supp: 10.850148858749586%)
+[Cinnamon] => [Adult] (Conf: 83.16326530612245%, Supp: 10.78398941448892%)
+[Eating, PM] => [Gray] (Conf: 82.75862068965517%, Supp: 12.702613298048297%)
+[AM, Foraging, Indifferent] => [Gray] (Conf: 82.25806451612902%, Supp: 10.122394971882235%)
+[Adult, Climbing] => [Gray] (Conf: 82.01438848920863%, Supp: 15.08435329143235%)
+[PM, Runs from] => [Gray] (Conf: 81.79487179487181%, Supp: 10.552431359576579%)
+[Tail twitches] => [Gray] (Conf: 77.88018433179724%, Supp: 11.180946080052928%)
+[AM, Adult, Foraging] => [Indifferent] (Conf: 62.90018832391714%, Supp: 11.048627191531592%)
+[Adult, Eating, Gray] => [PM] (Conf: 62.59541984732825%, Supp: 10.850148858749586%)
+[Adult, Eating] => [PM] (Conf: 62.14511041009464%, Supp: 13.033410519351637%)
+[AM, Foraging, Gray] => [Indifferent] (Conf: 62.06896551724138%, Supp: 10.122394971882235%)
+[Eating, Gray] => [PM] (Conf: 62.035541195476576%, Supp: 12.702613298048297%)
+[AM, Foraging] => [Indifferent] (Conf: 61.89683860232945%, Supp: 12.305656632484286%)
+[Eating] => [PM] (Conf: 61.052631578947356%, Supp: 15.348991068475023%)
+[Adult, Indifferent, PM] => [Foraging] (Conf: 59.90491283676703%, Supp: 12.504134965266292%)
+[Adult, Gray, Indifferent, PM] => [Foraging] (Conf: 58.998144712430424%, Supp: 10.519351637446245%)
+[Adult, Foraging, Gray] => [PM] (Conf: 58.604206500956025%, Supp: 20.27786966589481%)
+[Foraging, Gray] => [PM] (Conf: 58.32628909551987%, Supp: 22.82500826993053%)
+[Adult, Foraging] => [PM] (Conf: 58.287509819324434%, Supp: 24.545153820707906%)
+[Foraging] => [PM] (Conf: 58.1184668989547%, Supp: 27.588488256698646%)
+[Gray, Runs from] => [PM] (Conf: 57.89473684210527%, Supp: 10.552431359576579%)
+[Adult, Runs from] => [PM] (Conf: 57.61821366024519%, Supp: 10.883228580879921%)
+[Runs from] => [PM] (Conf: 57.52212389380531%, Supp: 12.9010916308303%)
+[Indifferent, PM] => [Foraging] (Conf: 57.417582417582416%, Supp: 13.827323850479656%)
+[Gray, Indifferent, PM] => [Foraging] (Conf: 56.91056910569105%, Supp: 11.577902745616937%)
+[Gray, Running] => [PM] (Conf: 56.28140703517588%, Supp: 11.114786635792258%)
+[Gray] => [PM] (Conf: 56.04528912252324%, Supp: 45.84849487264307%)
+[Adult, Gray] => [PM] (Conf: 55.76470588235294%, Supp: 39.199470724445916%)
+[Adult, Running] => [PM] (Conf: 55.67999999999999%, Supp: 11.511743301356269%)
+[Running] => [PM] (Conf: 55.205479452054796%, Supp: 13.331128018524643%)
+[Adult] => [PM] (Conf: 55.140186915887845%, Supp: 46.84088653655309%)
+[Adult, Foraging, Gray, Indifferent] => [PM] (Conf: 53.89830508474576%, Supp: 10.519351637446245%)
+[Foraging, Gray, Indifferent] => [PM] (Conf: 53.35365853658537%, Supp: 11.577902745616937%)
+[Adult, Foraging, Indifferent] => [PM] (Conf: 53.08988764044944%, Supp: 12.504134965266292%)
+[Foraging, Indifferent] => [PM] (Conf: 52.911392405063296%, Supp: 13.827323850479656%)
+[AM, Adult, Indifferent] => [Foraging] (Conf: 52.51572327044026%, Supp: 11.048627191531592%)
+[Adult, PM] => [Foraging] (Conf: 52.40112994350282%, Supp: 24.545153820707906%)
+[Adult, Foraging, Gray, PM] => [Indifferent] (Conf: 51.87601957585643%, Supp: 10.519351637446245%)
+[Adult, Gray, PM] => [Foraging] (Conf: 51.72995780590717%, Supp: 20.27786966589481%)
+[AM, Indifferent] => [Foraging] (Conf: 51.2396694214876%, Supp: 12.305656632484286%)
+[Adult, Foraging, PM] => [Indifferent] (Conf: 50.943396226415096%, Supp: 12.504134965266292%)
+[Foraging, Gray, PM] => [Indifferent] (Conf: 50.72463768115942%, Supp: 11.577902745616937%)
+[AM, Gray, Indifferent] => [Foraging] (Conf: 50.66225165562914%, Supp: 10.122394971882235%)
+[Adult, Gray, Indifferent] => [PM] (Conf: 50.51546391752577%, Supp: 17.829970228250083%)
+[Gray, Indifferent] => [PM] (Conf: 50.45118949958983%, Supp: 20.344029110155475%)
+[Foraging, PM] => [Indifferent] (Conf: 50.11990407673861%, Supp: 13.827323850479656%)
+[Indifferent] => [PM] (Conf: 50.06877579092159%, Supp: 24.082037710883228%)
+[Adult, Indifferent] => [PM] (Conf: 49.80268350434097%, Supp: 20.87330466424082%)
+[Gray, PM] => [Foraging] (Conf: 49.78354978354979%, Supp: 22.82500826993053%)
+[PM] => [Foraging] (Conf: 49.761336515513136%, Supp: 27.588488256698646%)
+[Climbing] => [PM] (Conf: 48.328267477203646%, Supp: 10.519351637446245%)
+[AM, Adult] => [Foraging] (Conf: 46.09375%, Supp: 17.56533245120741%)
+[AM, Adult, Gray] => [Foraging] (Conf: 46.06382978723404%, Supp: 14.323519682434668%)
+[AM, Gray] => [Foraging] (Conf: 45.3541858325667%, Supp: 16.30830301025471%)
+[AM] => [Foraging] (Conf: 44.61766889383816%, Supp: 19.880913000330796%)
