@@ -1,4 +1,4 @@
-# COMS E6111-Advanced Database Systems Project 2
+# COMS E6111-Advanced Database Systems Project 3
 
 1. Name and UNI: Eric Feng, ef2648
 2. Files submitted: association.py, 2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv, example-run.txt, README.md
