@@ -6,6 +6,8 @@
 # Description of how to run program
 1. Usage: `./association.py` `INTEGRATED-DATASET.csv` `<min_sup>` `<min_conf>`
 
+Please have INTEGRATED-DATASET.csv in the same directory as association.py
+
 # Description of NYC Open Data data set and motives:
 The INTEGRATED-DATASET is the raw data from the `2018 Central Park Squirrel Census - Squirrel Data` dataset on NYC OpenData. Each row describes a squirrel sighting and the properties and behaviors of the squirrel at the time of the sighting. Below is a description provided by the data.
 
